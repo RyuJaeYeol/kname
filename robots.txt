@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://kname.10x10.xyz/sitemap.xml
+Sitemap: https://kname.10x10.xyz/sitemap.xml
