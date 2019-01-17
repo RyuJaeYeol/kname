@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>한글이름 영어이름</title><link>https://kname.10x10.xyz</link><description>한글 이름을 영어 이름으로 바꾸는 규칙, 한글 이름 영어 사전, 한글이름 표준 영문표기법</description><image><title>한글이름 영어이름</title><url>https://kname.10x10.xyz/res/img/icon/icon.png</url><link>https://kname.10x10.xyz</link><description>한글 이름을 영어 이름으로 바꾸는 규칙, 한글 이름 영어 사전, 한글이름 표준 영문표기법</description></image><managingEditor>yohan1002 (yohan1002@gmail.com)</managingEditor><pubDate>Thu, 17 Jan 2019 15:50:27 +0900</pubDate><item><title>한글 성(姓)씨 영어로 바꿀 때</title><pubDate>Fri, 28 Dec 2018 10:17:00 +0900</pubDate><link>https://kname.10x10.xyz/%EC%84%B1%EC%94%A8/</link><guid>https://kname.10x10.xyz/%EC%84%B1%EC%94%A8/</guid><author>yohan1002 (yohan1002@gmail.com)</author><category>인명</category><description><![CDATA[<section class="pageLayout">
+<title>한글이름 영어이름</title><link>https://kname.10x10.xyz</link><description>한글 이름을 영어 이름으로 바꾸는 규칙, 한글 이름 영어 사전, 한글이름 표준 영문표기법</description><image><title>한글이름 영어이름</title><url>https://kname.10x10.xyz/res/img/icon/icon.png</url><link>https://kname.10x10.xyz</link><description>한글 이름을 영어 이름으로 바꾸는 규칙, 한글 이름 영어 사전, 한글이름 표준 영문표기법</description></image><managingEditor>yohan1002 (yohan1002@gmail.com)</managingEditor><pubDate>Thu, 17 Jan 2019 17:12:43 +0900</pubDate><item><title>한글 성(姓)씨 영어로 바꿀 때</title><pubDate>Fri, 28 Dec 2018 10:17:00 +0900</pubDate><link>https://kname.10x10.xyz/%EC%84%B1%EC%94%A8/</link><guid>https://kname.10x10.xyz/%EC%84%B1%EC%94%A8/</guid><author>yohan1002 (yohan1002@gmail.com)</author><category>인명</category><description><![CDATA[<section class="pageLayout">
 	<div class="headerContent">
 		<p>문화체육관광부고시 기준 성(姓)의 경우 기존에 사용하던 표기 그대로 사용할 수 있다고 합니다.</p>
 		<p>김(gim, kim), 곽(gwak, kwak), 공(gong, kong), 남궁(namgung, namkoong, namgoong), 노(no, noh, roh, ro, rho), 백(baek, back, paik, bak, pack), 윤(yun, yoon, youn, you, yon), 임(im, lim, lym, leem, yim, rim)과 같이 다양하게 사용이 가능 합니다.</p>
@@ -24,7 +24,7 @@
 		제3장 제7항: 인명, 회사명, 단체명 등은 그 동안 써 온 표기를 쓸 수 있다.
 	</dd>
 </dl>
-	<dl class="dTableGroup colomn2 clearfix">
+	<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㄱ]</dt>
 <dd class="singleColumn"><div class="box"><label>가</label>ga, ka</div></dd>
 <dd class="singleColumn"><div class="box"><label>간</label>gan, kan</div></dd>
@@ -52,7 +52,7 @@
 <dd class="singleColumn"><div class="box"><label>길</label>gil, kil</div></dd>
 <dd class="singleColumn"><div class="box"><label>김</label>gim, kim</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㄴ]</dt>
 <dd class="singleColumn"><div class="box"><label>나</label>na</div></dd>
 <dd class="singleColumn"><div class="box"><label>남</label>nam</div></dd>
@@ -63,7 +63,7 @@
 <dd class="singleColumn"><div class="box"><label>뇌</label>noe</div></dd>
 <dd class="singleColumn"><div class="box"><label>누</label>nu</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㄷ]</dt>
 <dd class="singleColumn"><div class="box"><label>단</label>dan</div></dd>
 <dd class="singleColumn"><div class="box"><label>담</label>dam</div></dd>
@@ -76,7 +76,7 @@
 <dd class="singleColumn"><div class="box"><label>동방</label>dongbang</div></dd>
 <dd class="singleColumn"><div class="box"><label>두</label>du</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㄹ]</dt>
 <dd class="singleColumn"><div class="box"><label>라</label>ra</div></dd>
 <dd class="singleColumn"><div class="box"><label>랑</label>rang</div></dd>
@@ -86,7 +86,7 @@
 <dd class="singleColumn"><div class="box"><label>류</label>ryu, ryoo, lyu</div></dd>
 <dd class="singleColumn"><div class="box"><label>림</label>rim</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅁ]</dt>
 <dd class="singleColumn"><div class="box"><label>마</label>ma</div></dd>
 <dd class="singleColumn"><div class="box"><label>만</label>man</div></dd>
@@ -103,7 +103,7 @@
 <dd class="singleColumn"><div class="box"><label>미</label>mi</div></dd>
 <dd class="singleColumn"><div class="box"><label>민</label>min</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅂ]</dt>
 <dd class="singleColumn"><div class="box"><label>박</label>bak, park</div></dd>
 <dd class="singleColumn"><div class="box"><label>반</label>ban</div></dd>
@@ -118,7 +118,7 @@
 <dd class="singleColumn"><div class="box"><label>빈</label>bin</div></dd>
 <dd class="singleColumn"><div class="box"><label>빙</label>bing</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅅ]</dt>
 <dd class="singleColumn"><div class="box"><label>사</label>sa</div></dd>
 <dd class="singleColumn"><div class="box"><label>사공</label>sagong</div></dd>
@@ -143,7 +143,7 @@
 <dd class="singleColumn"><div class="box"><label>심</label>sim, shim</div></dd>
 <dd class="singleColumn"><div class="box"><label>십</label>sip</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅇ]</dt>
 <dd class="singleColumn"><div class="box"><label>아</label>a</div></dd>
 <dd class="singleColumn"><div class="box"><label>안</label>an, ahn, ann</div></dd>
@@ -179,7 +179,7 @@
 <dd class="singleColumn"><div class="box"><label>인</label>in</div></dd>
 <dd class="singleColumn"><div class="box"><label>임</label>im, lim, lym, leem, yim, rim</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅈ]</dt>
 <dd class="singleColumn"><div class="box"><label>자</label>ja</div></dd>
 <dd class="singleColumn"><div class="box"><label>장</label>jang, chang</div></dd>
@@ -197,7 +197,7 @@
 <dd class="singleColumn"><div class="box"><label>지</label>ji, jee</div></dd>
 <dd class="singleColumn"><div class="box"><label>진</label>jin, chin</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅊ]</dt>
 <dd class="singleColumn"><div class="box"><label>차</label>cha</div></dd>
 <dd class="singleColumn"><div class="box"><label>창</label>chang</div></dd>
@@ -209,13 +209,13 @@
 <dd class="singleColumn"><div class="box"><label>최</label>choe, choi, choei</div></dd>
 <dd class="singleColumn"><div class="box"><label>추</label>chu, choo</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅌ]</dt>
 <dd class="singleColumn"><div class="box"><label>탁</label>tak</div></dd>
 <dd class="singleColumn"><div class="box"><label>탄</label>tan</div></dd>
 <dd class="singleColumn"><div class="box"><label>태</label>tae</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅍ]</dt>
 <dd class="singleColumn"><div class="box"><label>판</label>pan</div></dd>
 <dd class="singleColumn"><div class="box"><label>팽</label>paeng</div></dd>
@@ -227,7 +227,7 @@
 <dd class="singleColumn"><div class="box"><label>피</label>pi</div></dd>
 <dd class="singleColumn"><div class="box"><label>필</label>pil</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅎ]</dt>
 <dd class="singleColumn"><div class="box"><label>하</label>ha</div></dd>
 <dd class="singleColumn"><div class="box"><label>학</label>hak</div></dd>
@@ -270,7 +270,7 @@
 		제3장 제7항: 인명, 회사명, 단체명 등은 그 동안 써 온 표기를 쓸 수 있다.
 	</dd>
 </dl>
-	<dl class="dTableGroup colomn2 clearfix">
+	<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㄱ]</dt>
 <dd class="singleColumn"><div class="box"><label>가</label>ga, <span class="dWildcard">ka</span></div></dd>
 <dd class="singleColumn"><div class="box"><label>각</label>gak</div></dd>
@@ -346,7 +346,7 @@
 <dd class="singleColumn"><div class="box"><label>끝</label>kkeut</div></dd>
 <dd class="singleColumn"><div class="box"><label>끼</label>kki</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㄴ]</dt>
 <dd class="singleColumn"><div class="box"><label>나</label>na</div></dd>
 <dd class="singleColumn"><div class="box"><label>낙</label>nak</div></dd>
@@ -385,7 +385,7 @@
 <dd class="singleColumn"><div class="box"><label>닐</label>nil</div></dd>
 <dd class="singleColumn"><div class="box"><label>님</label>nim</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㄷ]</dt>
 <dd class="singleColumn"><div class="box"><label>다</label>da</div></dd>
 <dd class="singleColumn"><div class="box"><label>단</label>dan</div></dd>
@@ -423,7 +423,7 @@
 <dd class="singleColumn"><div class="box"><label>뜨</label>tteu</div></dd>
 <dd class="singleColumn"><div class="box"><label>띠</label>tti</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㄹ]</dt>
 <dd class="singleColumn"><div class="box"><label>라</label>ra</div></dd>
 <dd class="singleColumn"><div class="box"><label>락</label>rak</div></dd>
@@ -466,7 +466,7 @@
 <dd class="singleColumn"><div class="box"><label>림</label>rim</div></dd>
 <dd class="singleColumn"><div class="box"><label>립</label>rip</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅁ]</dt>
 <dd class="singleColumn"><div class="box"><label>마</label>ma</div></dd>
 <dd class="singleColumn"><div class="box"><label>막</label>mak</div></dd>
@@ -501,7 +501,7 @@
 <dd class="singleColumn"><div class="box"><label>민</label>min</div></dd>
 <dd class="singleColumn"><div class="box"><label>밀</label>mil</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅂ]</dt>
 <dd class="singleColumn"><div class="box"><label>바</label>ba</div></dd>
 <dd class="singleColumn"><div class="box"><label>박</label>bak, <span class="dWildcard">park</span></div></dd>
@@ -544,7 +544,7 @@
 <dd class="singleColumn"><div class="box"><label>쁘</label>ppeu</div></dd>
 <dd class="singleColumn"><div class="box"><label>삐</label>ppi</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅅ]</dt>
 <dd class="singleColumn"><div class="box"><label>사</label>sa</div></dd>
 <dd class="singleColumn"><div class="box"><label>삭</label>sak</div></dd>
@@ -600,7 +600,7 @@
 <dd class="singleColumn"><div class="box"><label>쑥</label>ssuk</div></dd>
 <dd class="singleColumn"><div class="box"><label>씨</label>ssi</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅇ]</dt>
 <dd class="singleColumn"><div class="box"><label>아</label>a</div></dd>
 <dd class="singleColumn"><div class="box"><label>악</label>ak</div></dd>
@@ -679,7 +679,7 @@
 <dd class="singleColumn"><div class="box"><label>입</label>ip</div></dd>
 <dd class="singleColumn"><div class="box"><label>잉</label>ing</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅈ]</dt>
 <dd class="singleColumn"><div class="box"><label>자</label>ja</div></dd>
 <dd class="singleColumn"><div class="box"><label>작</label>jak</div></dd>
@@ -728,7 +728,7 @@
 <dd class="singleColumn"><div class="box"><label>쪼</label>jjo</div></dd>
 <dd class="singleColumn"><div class="box"><label>찌</label>jji</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅊ]</dt>
 <dd class="singleColumn"><div class="box"><label>차</label>cha</div></dd>
 <dd class="singleColumn"><div class="box"><label>착</label>chak</div></dd>
@@ -767,7 +767,7 @@
 <dd class="singleColumn"><div class="box"><label>칩</label>chip</div></dd>
 <dd class="singleColumn"><div class="box"><label>칭</label>ching</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅋ]</dt>
 <dd class="singleColumn"><div class="box"><label>코</label>ko</div></dd>
 <dd class="singleColumn"><div class="box"><label>쾌</label>kwae</div></dd>
@@ -775,7 +775,7 @@
 <dd class="singleColumn"><div class="box"><label>큰</label>keun</div></dd>
 <dd class="singleColumn"><div class="box"><label>키</label>ki</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅌ]</dt>
 <dd class="singleColumn"><div class="box"><label>타</label>ta</div></dd>
 <dd class="singleColumn"><div class="box"><label>탁</label>tak</div></dd>
@@ -802,7 +802,7 @@
 <dd class="singleColumn"><div class="box"><label>틈</label>teum</div></dd>
 <dd class="singleColumn"><div class="box"><label>티</label>ti</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅍ]</dt>
 <dd class="singleColumn"><div class="box"><label>파</label>pa</div></dd>
 <dd class="singleColumn"><div class="box"><label>판</label>pan</div></dd>
@@ -828,7 +828,7 @@
 <dd class="singleColumn"><div class="box"><label>필</label>pil</div></dd>
 <dd class="singleColumn"><div class="box"><label>핍</label>pip</div></dd>
 </dl>
-<dl class="dTableGroup colomn2 clearfix">
+<dl class="dTableGroup colomn2 content-ad-list clearfix">
 	<dt>[ㅎ]</dt>
 <dd class="singleColumn"><div class="box"><label>하</label>ha</div></dd>
 <dd class="singleColumn"><div class="box"><label>학</label>hak</div></dd>
