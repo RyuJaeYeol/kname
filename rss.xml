@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>한글이름 영어이름</title><link>https://kname.10x10.xyz</link><description>한글 이름을 영어 이름으로 바꾸는 규칙, 한글 이름 영어 사전, 한글이름 표준 영문표기법</description><image><title>한글이름 영어이름</title><url>https://kname.10x10.xyz/res/img/icon/icon.png</url><link>https://kname.10x10.xyz</link><description>한글 이름을 영어 이름으로 바꾸는 규칙, 한글 이름 영어 사전, 한글이름 표준 영문표기법</description></image><managingEditor>yohan1002 (yohan1002@gmail.com)</managingEditor><pubDate>Fri, 11 Jan 2019 18:13:06 +0900</pubDate><item><title>한글 성(姓)씨 영어로 바꿀 때</title><pubDate>Fri, 28 Dec 2018 10:17:00 +0900</pubDate><link>https://kname.10x10.xyz/%EC%84%B1%EC%94%A8/</link><guid>https://kname.10x10.xyz/%EC%84%B1%EC%94%A8/</guid><author>yohan1002 (yohan1002@gmail.com)</author><category>인명</category><description><![CDATA[<section class="pageLayout">
+<title>한글이름 영어이름</title><link>https://kname.10x10.xyz</link><description>한글 이름을 영어 이름으로 바꾸는 규칙, 한글 이름 영어 사전, 한글이름 표준 영문표기법</description><image><title>한글이름 영어이름</title><url>https://kname.10x10.xyz/res/img/icon/icon.png</url><link>https://kname.10x10.xyz</link><description>한글 이름을 영어 이름으로 바꾸는 규칙, 한글 이름 영어 사전, 한글이름 표준 영문표기법</description></image><managingEditor>yohan1002 (yohan1002@gmail.com)</managingEditor><pubDate>Thu, 17 Jan 2019 15:44:29 +0900</pubDate><item><title>한글 성(姓)씨 영어로 바꿀 때</title><pubDate>Fri, 28 Dec 2018 10:17:00 +0900</pubDate><link>https://kname.10x10.xyz/%EC%84%B1%EC%94%A8/</link><guid>https://kname.10x10.xyz/%EC%84%B1%EC%94%A8/</guid><author>yohan1002 (yohan1002@gmail.com)</author><category>인명</category><description><![CDATA[<section class="pageLayout">
 	<div class="headerContent">
 		<p>문화체육관광부고시 기준 성(姓)의 경우 기존에 사용하던 표기 그대로 사용할 수 있다고 합니다.</p>
 		<p>김(gim, kim), 곽(gwak, kwak), 공(gong, kong), 남궁(namgung, namkoong, namgoong), 노(no, noh, roh, ro, rho), 백(baek, back, paik, bak, pack), 윤(yun, yoon, youn, you, yon), 임(im, lim, lym, leem, yim, rim)과 같이 다양하게 사용이 가능 합니다.</p>
@@ -24,226 +24,226 @@
 		제3장 제7항: 인명, 회사명, 단체명 등은 그 동안 써 온 표기를 쓸 수 있다.
 	</dd>
 </dl>
-	<dl class="dNameGroup clearfix">
+	<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㄱ]</dt>
-	<dd>가 ga, ka</dd>
-	<dd>간 gan, kan</dd>
-	<dd>갈 gal</dd>
-	<dd>감 gam</dd>
-	<dd>강 gang, kang</dd>
-	<dd>개 gae</dd>
-	<dd>견 gyeon, kyun</dd>
-	<dd>경 gyeong, kyung</dd>
-	<dd>계 gye</dd>
-	<dd>고 go, ko, koh, goh</dd>
-	<dd>곡 gok</dd>
-	<dd>공 gong, kong</dd>
-	<dd>곽 gwak, kwak</dd>
-	<dd>교 gyo</dd>
-	<dd>구 gu, koo, ku, goo</dd>
-	<dd>국 guk, kook</dd>
-	<dd>군 gun</dd>
-	<dd>궁 gung</dd>
-	<dd>궉 gwok</dd>
-	<dd>권 gwon, kwon, kwuan, gwen, kwun</dd>
-	<dd>근 geun</dd>
-	<dd>금 geum, kum</dd>
-	<dd>기 gi, ki</dd>
-	<dd>길 gil, kil</dd>
-	<dd>김 gim, kim</dd>
+<dd class="singleColumn"><div class="box"><label>가</label>ga, ka</div></dd>
+<dd class="singleColumn"><div class="box"><label>간</label>gan, kan</div></dd>
+<dd class="singleColumn"><div class="box"><label>갈</label>gal</div></dd>
+<dd class="singleColumn"><div class="box"><label>감</label>gam</div></dd>
+<dd class="singleColumn"><div class="box"><label>강</label>gang, kang</div></dd>
+<dd class="singleColumn"><div class="box"><label>개</label>gae</div></dd>
+<dd class="singleColumn"><div class="box"><label>견</label>gyeon, kyun</div></dd>
+<dd class="singleColumn"><div class="box"><label>경</label>gyeong, kyung</div></dd>
+<dd class="singleColumn"><div class="box"><label>계</label>gye</div></dd>
+<dd class="singleColumn"><div class="box"><label>고</label>go, ko, koh, goh</div></dd>
+<dd class="singleColumn"><div class="box"><label>곡</label>gok</div></dd>
+<dd class="singleColumn"><div class="box"><label>공</label>gong, kong</div></dd>
+<dd class="singleColumn"><div class="box"><label>곽</label>gwak, kwak</div></dd>
+<dd class="singleColumn"><div class="box"><label>교</label>gyo</div></dd>
+<dd class="singleColumn"><div class="box"><label>구</label>gu, koo, ku, goo</div></dd>
+<dd class="singleColumn"><div class="box"><label>국</label>guk, kook</div></dd>
+<dd class="singleColumn"><div class="box"><label>군</label>gun</div></dd>
+<dd class="singleColumn"><div class="box"><label>궁</label>gung</div></dd>
+<dd class="singleColumn"><div class="box"><label>궉</label>gwok</div></dd>
+<dd class="singleColumn"><div class="box"><label>권</label>gwon, kwon, kwuan, gwen, kwun</div></dd>
+<dd class="singleColumn"><div class="box"><label>근</label>geun</div></dd>
+<dd class="singleColumn"><div class="box"><label>금</label>geum, kum</div></dd>
+<dd class="singleColumn"><div class="box"><label>기</label>gi, ki</div></dd>
+<dd class="singleColumn"><div class="box"><label>길</label>gil, kil</div></dd>
+<dd class="singleColumn"><div class="box"><label>김</label>gim, kim</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㄴ]</dt>
-	<dd>나 na</dd>
-	<dd>남 nam</dd>
-	<dd>남궁 namgung, namkoong, namgoong</dd>
-	<dd>낭 nang</dd>
-	<dd>내 nae</dd>
-	<dd>노 no, noh, roh, ro, rho</dd>
-	<dd>뇌 noe</dd>
-	<dd>누 nu</dd>
+<dd class="singleColumn"><div class="box"><label>나</label>na</div></dd>
+<dd class="singleColumn"><div class="box"><label>남</label>nam</div></dd>
+<dd class="singleColumn"><div class="box"><label>남궁</label>namgung, namkoong, namgoong</div></dd>
+<dd class="singleColumn"><div class="box"><label>낭</label>nang</div></dd>
+<dd class="singleColumn"><div class="box"><label>내</label>nae</div></dd>
+<dd class="singleColumn"><div class="box"><label>노</label>no, noh, roh, ro, rho</div></dd>
+<dd class="singleColumn"><div class="box"><label>뇌</label>noe</div></dd>
+<dd class="singleColumn"><div class="box"><label>누</label>nu</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㄷ]</dt>
-	<dd>단 dan</dd>
-	<dd>담 dam</dd>
-	<dd>당 dang</dd>
-	<dd>대 dae</dd>
-	<dd>도 do</dd>
-	<dd>독고 dokgo</dd>
-	<dd>돈 don</dd>
-	<dd>동 dong</dd>
-	<dd>동방 dongbang</dd>
-	<dd>두 du</dd>
+<dd class="singleColumn"><div class="box"><label>단</label>dan</div></dd>
+<dd class="singleColumn"><div class="box"><label>담</label>dam</div></dd>
+<dd class="singleColumn"><div class="box"><label>당</label>dang</div></dd>
+<dd class="singleColumn"><div class="box"><label>대</label>dae</div></dd>
+<dd class="singleColumn"><div class="box"><label>도</label>do</div></dd>
+<dd class="singleColumn"><div class="box"><label>독고</label>dokgo</div></dd>
+<dd class="singleColumn"><div class="box"><label>돈</label>don</div></dd>
+<dd class="singleColumn"><div class="box"><label>동</label>dong</div></dd>
+<dd class="singleColumn"><div class="box"><label>동방</label>dongbang</div></dd>
+<dd class="singleColumn"><div class="box"><label>두</label>du</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㄹ]</dt>
-	<dd>라 ra</dd>
-	<dd>랑 rang</dd>
-	<dd>량 ryang</dd>
-	<dd>로 ro</dd>
-	<dd>뢰 roe</dd>
-	<dd>류 ryu, ryoo, lyu</dd>
-	<dd>림 rim</dd>
+<dd class="singleColumn"><div class="box"><label>라</label>ra</div></dd>
+<dd class="singleColumn"><div class="box"><label>랑</label>rang</div></dd>
+<dd class="singleColumn"><div class="box"><label>량</label>ryang</div></dd>
+<dd class="singleColumn"><div class="box"><label>로</label>ro</div></dd>
+<dd class="singleColumn"><div class="box"><label>뢰</label>roe</div></dd>
+<dd class="singleColumn"><div class="box"><label>류</label>ryu, ryoo, lyu</div></dd>
+<dd class="singleColumn"><div class="box"><label>림</label>rim</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅁ]</dt>
-	<dd>마 ma</dd>
-	<dd>만 man</dd>
-	<dd>망절 mangjeol</dd>
-	<dd>매 mae</dd>
-	<dd>맹 maeng</dd>
-	<dd>명 myeong, myoung</dd>
-	<dd>모 mo</dd>
-	<dd>목 mok</dd>
-	<dd>묘 myo</dd>
-	<dd>무본 mubon</dd>
-	<dd>묵 muk</dd>
-	<dd>문 mun, moon</dd>
-	<dd>미 mi</dd>
-	<dd>민 min</dd>
+<dd class="singleColumn"><div class="box"><label>마</label>ma</div></dd>
+<dd class="singleColumn"><div class="box"><label>만</label>man</div></dd>
+<dd class="singleColumn"><div class="box"><label>망절</label>mangjeol</div></dd>
+<dd class="singleColumn"><div class="box"><label>매</label>mae</div></dd>
+<dd class="singleColumn"><div class="box"><label>맹</label>maeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>명</label>myeong, myoung</div></dd>
+<dd class="singleColumn"><div class="box"><label>모</label>mo</div></dd>
+<dd class="singleColumn"><div class="box"><label>목</label>mok</div></dd>
+<dd class="singleColumn"><div class="box"><label>묘</label>myo</div></dd>
+<dd class="singleColumn"><div class="box"><label>무본</label>mubon</div></dd>
+<dd class="singleColumn"><div class="box"><label>묵</label>muk</div></dd>
+<dd class="singleColumn"><div class="box"><label>문</label>mun, moon</div></dd>
+<dd class="singleColumn"><div class="box"><label>미</label>mi</div></dd>
+<dd class="singleColumn"><div class="box"><label>민</label>min</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅂ]</dt>
-	<dd>박 bak, park</dd>
-	<dd>반 ban</dd>
-	<dd>방 bang</dd>
-	<dd>배 bae</dd>
-	<dd>백 baek, back, paik, bak, pack</dd>
-	<dd>범 beom</dd>
-	<dd>변 byeon, byun, byoun</dd>
-	<dd>복 bok</dd>
-	<dd>봉 bong</dd>
-	<dd>부 bu, boo</dd>
-	<dd>빈 bin</dd>
-	<dd>빙 bing</dd>
+<dd class="singleColumn"><div class="box"><label>박</label>bak, park</div></dd>
+<dd class="singleColumn"><div class="box"><label>반</label>ban</div></dd>
+<dd class="singleColumn"><div class="box"><label>방</label>bang</div></dd>
+<dd class="singleColumn"><div class="box"><label>배</label>bae</div></dd>
+<dd class="singleColumn"><div class="box"><label>백</label>baek, back, paik, bak, pack</div></dd>
+<dd class="singleColumn"><div class="box"><label>범</label>beom</div></dd>
+<dd class="singleColumn"><div class="box"><label>변</label>byeon, byun, byoun</div></dd>
+<dd class="singleColumn"><div class="box"><label>복</label>bok</div></dd>
+<dd class="singleColumn"><div class="box"><label>봉</label>bong</div></dd>
+<dd class="singleColumn"><div class="box"><label>부</label>bu, boo</div></dd>
+<dd class="singleColumn"><div class="box"><label>빈</label>bin</div></dd>
+<dd class="singleColumn"><div class="box"><label>빙</label>bing</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅅ]</dt>
-	<dd>사 sa</dd>
-	<dd>사공 sagong</dd>
-	<dd>삼 sam</dd>
-	<dd>상 sang</dd>
-	<dd>서 seo, suh</dd>
-	<dd>서문 seomun</dd>
-	<dd>석 seok, suk</dd>
-	<dd>선 seon, sun</dd>
-	<dd>선우 seonu, sunwoo</dd>
-	<dd>설 seol, sul</dd>
-	<dd>섭 seop</dd>
-	<dd>성 seong, sung</dd>
-	<dd>소 so</dd>
-	<dd>손 son</dd>
-	<dd>송 song</dd>
-	<dd>수 su, soo</dd>
-	<dd>순 sun</dd>
-	<dd>승 seung</dd>
-	<dd>시 si</dd>
-	<dd>신 sin, shin</dd>
-	<dd>심 sim, shim</dd>
-	<dd>십 sip</dd>
+<dd class="singleColumn"><div class="box"><label>사</label>sa</div></dd>
+<dd class="singleColumn"><div class="box"><label>사공</label>sagong</div></dd>
+<dd class="singleColumn"><div class="box"><label>삼</label>sam</div></dd>
+<dd class="singleColumn"><div class="box"><label>상</label>sang</div></dd>
+<dd class="singleColumn"><div class="box"><label>서</label>seo, suh</div></dd>
+<dd class="singleColumn"><div class="box"><label>서문</label>seomun</div></dd>
+<dd class="singleColumn"><div class="box"><label>석</label>seok, suk</div></dd>
+<dd class="singleColumn"><div class="box"><label>선</label>seon, sun</div></dd>
+<dd class="singleColumn"><div class="box"><label>선우</label>seonu, sunwoo</div></dd>
+<dd class="singleColumn"><div class="box"><label>설</label>seol, sul</div></dd>
+<dd class="singleColumn"><div class="box"><label>섭</label>seop</div></dd>
+<dd class="singleColumn"><div class="box"><label>성</label>seong, sung</div></dd>
+<dd class="singleColumn"><div class="box"><label>소</label>so</div></dd>
+<dd class="singleColumn"><div class="box"><label>손</label>son</div></dd>
+<dd class="singleColumn"><div class="box"><label>송</label>song</div></dd>
+<dd class="singleColumn"><div class="box"><label>수</label>su, soo</div></dd>
+<dd class="singleColumn"><div class="box"><label>순</label>sun</div></dd>
+<dd class="singleColumn"><div class="box"><label>승</label>seung</div></dd>
+<dd class="singleColumn"><div class="box"><label>시</label>si</div></dd>
+<dd class="singleColumn"><div class="box"><label>신</label>sin, shin</div></dd>
+<dd class="singleColumn"><div class="box"><label>심</label>sim, shim</div></dd>
+<dd class="singleColumn"><div class="box"><label>십</label>sip</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅇ]</dt>
-	<dd>아 a</dd>
-	<dd>안 an, ahn, ann</dd>
-	<dd>애 ae</dd>
-	<dd>야 ya</dd>
-	<dd>양 yang</dd>
-	<dd>어 eo, ou</dd>
-	<dd>어금 eogeum</dd>
-	<dd>엄 eom, um, uhm</dd>
-	<dd>여 yeo, yoe</dd>
-	<dd>연 yeon, youn</dd>
-	<dd>염 yeom, yum</dd>
-	<dd>영 yeong, young</dd>
-	<dd>예 ye</dd>
-	<dd>오 o, oh</dd>
-	<dd>옥 ok</dd>
-	<dd>온 on</dd>
-	<dd>옹 ong</dd>
-	<dd>왕 wang</dd>
-	<dd>요 yo</dd>
-	<dd>용 yong</dd>
-	<dd>우 u, woo</dd>
-	<dd>운 un</dd>
-	<dd>원 won</dd>
-	<dd>위 wi, wie, we</dd>
-	<dd>유 yu, yoo, you, ryu, u</dd>
-	<dd>육 yuk</dd>
-	<dd>윤 yun, yoon, youn, you, yon</dd>
-	<dd>율 yul</dd>
-	<dd>은 eun</dd>
-	<dd>음 eum</dd>
-	<dd>이 i, lee</dd>
-	<dd>인 in</dd>
-	<dd>임 im, lim, lym, leem, yim, rim</dd>
+<dd class="singleColumn"><div class="box"><label>아</label>a</div></dd>
+<dd class="singleColumn"><div class="box"><label>안</label>an, ahn, ann</div></dd>
+<dd class="singleColumn"><div class="box"><label>애</label>ae</div></dd>
+<dd class="singleColumn"><div class="box"><label>야</label>ya</div></dd>
+<dd class="singleColumn"><div class="box"><label>양</label>yang</div></dd>
+<dd class="singleColumn"><div class="box"><label>어</label>eo, ou</div></dd>
+<dd class="singleColumn"><div class="box"><label>어금</label>eogeum</div></dd>
+<dd class="singleColumn"><div class="box"><label>엄</label>eom, um, uhm</div></dd>
+<dd class="singleColumn"><div class="box"><label>여</label>yeo, yoe</div></dd>
+<dd class="singleColumn"><div class="box"><label>연</label>yeon, youn</div></dd>
+<dd class="singleColumn"><div class="box"><label>염</label>yeom, yum</div></dd>
+<dd class="singleColumn"><div class="box"><label>영</label>yeong, young</div></dd>
+<dd class="singleColumn"><div class="box"><label>예</label>ye</div></dd>
+<dd class="singleColumn"><div class="box"><label>오</label>o, oh</div></dd>
+<dd class="singleColumn"><div class="box"><label>옥</label>ok</div></dd>
+<dd class="singleColumn"><div class="box"><label>온</label>on</div></dd>
+<dd class="singleColumn"><div class="box"><label>옹</label>ong</div></dd>
+<dd class="singleColumn"><div class="box"><label>왕</label>wang</div></dd>
+<dd class="singleColumn"><div class="box"><label>요</label>yo</div></dd>
+<dd class="singleColumn"><div class="box"><label>용</label>yong</div></dd>
+<dd class="singleColumn"><div class="box"><label>우</label>u, woo</div></dd>
+<dd class="singleColumn"><div class="box"><label>운</label>un</div></dd>
+<dd class="singleColumn"><div class="box"><label>원</label>won</div></dd>
+<dd class="singleColumn"><div class="box"><label>위</label>wi, wie, we</div></dd>
+<dd class="singleColumn"><div class="box"><label>유</label>yu, yoo, you, ryu, u</div></dd>
+<dd class="singleColumn"><div class="box"><label>육</label>yuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>윤</label>yun, yoon, youn, you, yon</div></dd>
+<dd class="singleColumn"><div class="box"><label>율</label>yul</div></dd>
+<dd class="singleColumn"><div class="box"><label>은</label>eun</div></dd>
+<dd class="singleColumn"><div class="box"><label>음</label>eum</div></dd>
+<dd class="singleColumn"><div class="box"><label>이</label>i, lee</div></dd>
+<dd class="singleColumn"><div class="box"><label>인</label>in</div></dd>
+<dd class="singleColumn"><div class="box"><label>임</label>im, lim, lym, leem, yim, rim</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅈ]</dt>
-	<dd>자 ja</dd>
-	<dd>장 jang, chang</dd>
-	<dd>전 jeon, jun, cheon, chun</dd>
-	<dd>점 jeom</dd>
-	<dd>정 jeong, jung, chung, cheong, jeng</dd>
-	<dd>제 je, jae</dd>
-	<dd>제갈 jegal</dd>
-	<dd>조 jo, cho, joe</dd>
-	<dd>종 jong</dd>
-	<dd>좌 jwa</dd>
-	<dd>주 ju, joo, choo</dd>
-	<dd>준 jun</dd>
-	<dd>즙 jeup</dd>
-	<dd>지 ji, jee</dd>
-	<dd>진 jin, chin</dd>
+<dd class="singleColumn"><div class="box"><label>자</label>ja</div></dd>
+<dd class="singleColumn"><div class="box"><label>장</label>jang, chang</div></dd>
+<dd class="singleColumn"><div class="box"><label>전</label>jeon, jun, cheon, chun</div></dd>
+<dd class="singleColumn"><div class="box"><label>점</label>jeom</div></dd>
+<dd class="singleColumn"><div class="box"><label>정</label>jeong, jung, chung, cheong, jeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>제</label>je, jae</div></dd>
+<dd class="singleColumn"><div class="box"><label>제갈</label>jegal</div></dd>
+<dd class="singleColumn"><div class="box"><label>조</label>jo, cho, joe</div></dd>
+<dd class="singleColumn"><div class="box"><label>종</label>jong</div></dd>
+<dd class="singleColumn"><div class="box"><label>좌</label>jwa</div></dd>
+<dd class="singleColumn"><div class="box"><label>주</label>ju, joo, choo</div></dd>
+<dd class="singleColumn"><div class="box"><label>준</label>jun</div></dd>
+<dd class="singleColumn"><div class="box"><label>즙</label>jeup</div></dd>
+<dd class="singleColumn"><div class="box"><label>지</label>ji, jee</div></dd>
+<dd class="singleColumn"><div class="box"><label>진</label>jin, chin</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅊ]</dt>
-	<dd>차 cha</dd>
-	<dd>창 chang</dd>
-	<dd>채 chae, che</dd>
-	<dd>척 cheok</dd>
-	<dd>천 cheon, chun, chon</dd>
-	<dd>초 cho</dd>
-	<dd>총 chong</dd>
-	<dd>최 choe, choi, choei</dd>
-	<dd>추 chu, choo</dd>
+<dd class="singleColumn"><div class="box"><label>차</label>cha</div></dd>
+<dd class="singleColumn"><div class="box"><label>창</label>chang</div></dd>
+<dd class="singleColumn"><div class="box"><label>채</label>chae, che</div></dd>
+<dd class="singleColumn"><div class="box"><label>척</label>cheok</div></dd>
+<dd class="singleColumn"><div class="box"><label>천</label>cheon, chun, chon</div></dd>
+<dd class="singleColumn"><div class="box"><label>초</label>cho</div></dd>
+<dd class="singleColumn"><div class="box"><label>총</label>chong</div></dd>
+<dd class="singleColumn"><div class="box"><label>최</label>choe, choi, choei</div></dd>
+<dd class="singleColumn"><div class="box"><label>추</label>chu, choo</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅌ]</dt>
-	<dd>탁 tak</dd>
-	<dd>탄 tan</dd>
-	<dd>태 tae</dd>
+<dd class="singleColumn"><div class="box"><label>탁</label>tak</div></dd>
+<dd class="singleColumn"><div class="box"><label>탄</label>tan</div></dd>
+<dd class="singleColumn"><div class="box"><label>태</label>tae</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅍ]</dt>
-	<dd>판 pan</dd>
-	<dd>팽 paeng</dd>
-	<dd>편 pyeon</dd>
-	<dd>평 pyeong</dd>
-	<dd>포 po</dd>
-	<dd>표 pyo</dd>
-	<dd>풍 pung</dd>
-	<dd>피 pi</dd>
-	<dd>필 pil</dd>
+<dd class="singleColumn"><div class="box"><label>판</label>pan</div></dd>
+<dd class="singleColumn"><div class="box"><label>팽</label>paeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>편</label>pyeon</div></dd>
+<dd class="singleColumn"><div class="box"><label>평</label>pyeong</div></dd>
+<dd class="singleColumn"><div class="box"><label>포</label>po</div></dd>
+<dd class="singleColumn"><div class="box"><label>표</label>pyo</div></dd>
+<dd class="singleColumn"><div class="box"><label>풍</label>pung</div></dd>
+<dd class="singleColumn"><div class="box"><label>피</label>pi</div></dd>
+<dd class="singleColumn"><div class="box"><label>필</label>pil</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅎ]</dt>
-	<dd>하 ha</dd>
-	<dd>학 hak</dd>
-	<dd>한 han</dd>
-	<dd>함 ham</dd>
-	<dd>해 hae</dd>
-	<dd>허 heo, huh, hur, hu</dd>
-	<dd>현 hyeon, hyun</dd>
-	<dd>형 hyeong, hyung</dd>
-	<dd>호 ho</dd>
-	<dd>홍 hong</dd>
-	<dd>화 hwa</dd>
-	<dd>환 hwan</dd>
-	<dd>황 hwang, whang</dd>
-	<dd>황목 hwang mok</dd>
-	<dd>황보 hwangbo</dd>
+<dd class="singleColumn"><div class="box"><label>하</label>ha</div></dd>
+<dd class="singleColumn"><div class="box"><label>학</label>hak</div></dd>
+<dd class="singleColumn"><div class="box"><label>한</label>han</div></dd>
+<dd class="singleColumn"><div class="box"><label>함</label>ham</div></dd>
+<dd class="singleColumn"><div class="box"><label>해</label>hae</div></dd>
+<dd class="singleColumn"><div class="box"><label>허</label>heo, huh, hur, hu</div></dd>
+<dd class="singleColumn"><div class="box"><label>현</label>hyeon, hyun</div></dd>
+<dd class="singleColumn"><div class="box"><label>형</label>hyeong, hyung</div></dd>
+<dd class="singleColumn"><div class="box"><label>호</label>ho</div></dd>
+<dd class="singleColumn"><div class="box"><label>홍</label>hong</div></dd>
+<dd class="singleColumn"><div class="box"><label>화</label>hwa</div></dd>
+<dd class="singleColumn"><div class="box"><label>환</label>hwan</div></dd>
+<dd class="singleColumn"><div class="box"><label>황</label>hwang, whang</div></dd>
+<dd class="singleColumn"><div class="box"><label>황목</label>hwang mok</div></dd>
+<dd class="singleColumn"><div class="box"><label>황보</label>hwangbo</div></dd>
 </dl>
 	<div class="innerLink">
 		<a href="https://kname.10x10.xyz/이름/" target="_blank">한글 이름(名) 영어로 바꿀 때</a>
@@ -270,629 +270,693 @@
 		제3장 제7항: 인명, 회사명, 단체명 등은 그 동안 써 온 표기를 쓸 수 있다.
 	</dd>
 </dl>
-	<dl class="dNameGroup clearfix">
+	<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㄱ]</dt>
-	<dd>가 ga, <span class="dWildcard">ka</span></dd>
-	<dd>각 gak</dd>
-	<dd>간 gan, <span class="dWildcard">kan</span></dd>
-	<dd>갈 gal</dd>
-	<dd>감 gam</dd>
-	<dd>갑 gap</dd>
-	<dd>갓 gat</dd>
-	<dd>강 gang, <span class="dWildcard">kang</span></dd>
-	<dd>개 gae</dd>
-	<dd>객 gaek</dd>
-	<dd>거 geo</dd>
-	<dd>건 geon</dd>
-	<dd>걸 geol</dd>
-	<dd>검 geom</dd>
-	<dd>겁 geop</dd>
-	<dd>게 ge</dd>
-	<dd>겨 gyeo</dd>
-	<dd>격 gyeok</dd>
-	<dd>견 gyeon, <span class="dWildcard">kyun</span></dd>
-	<dd>결 gyeol</dd>
-	<dd>겸 gyeom</dd>
-	<dd>겹 gyeop</dd>
-	<dd>경 gyeong, <span class="dWildcard">kyung</span></dd>
-	<dd>계 gye</dd>
-	<dd>고 go, <span class="dWildcard">ko</span>, <span class="dWildcard">koh</span>, <span class="dWildcard">goh</span></dd>
-	<dd>곡 gok</dd>
-	<dd>곤 gon</dd>
-	<dd>골 gol</dd>
-	<dd>곳 got</dd>
-	<dd>공 gong, <span class="dWildcard">kong</span></dd>
-	<dd>곶 got</dd>
-	<dd>과 gwa</dd>
-	<dd>곽 gwak, <span class="dWildcard">kwak</span></dd>
-	<dd>관 gwan</dd>
-	<dd>괄 gwal</dd>
-	<dd>광 gwang</dd>
-	<dd>괘 gwae</dd>
-	<dd>괴 goe</dd>
-	<dd>굉 goeng</dd>
-	<dd>교 gyo</dd>
-	<dd>구 gu, <span class="dWildcard">koo</span>, <span class="dWildcard">ku</span>, <span class="dWildcard">goo</span></dd>
-	<dd>국 guk, <span class="dWildcard">kook</span></dd>
-	<dd>군 gun</dd>
-	<dd>굴 gul</dd>
-	<dd>굿 gut</dd>
-	<dd>궁 gung</dd>
-	<dd>권 gwon, <span class="dWildcard">kwon</span>, <span class="dWildcard">kwuan</span>, <span class="dWildcard">gwen</span>, <span class="dWildcard">kwun</span></dd>
-	<dd>궐 gwol</dd>
-	<dd>귀 gwi</dd>
-	<dd>규 gyu</dd>
-	<dd>균 gyun</dd>
-	<dd>귤 gyul</dd>
-	<dd>그 geu</dd>
-	<dd>극 geuk</dd>
-	<dd>근 geun</dd>
-	<dd>글 geul</dd>
-	<dd>금 geum, <span class="dWildcard">kum</span></dd>
-	<dd>급 geup</dd>
-	<dd>긍 geung</dd>
-	<dd>기 gi, <span class="dWildcard">ki</span></dd>
-	<dd>긴 gin</dd>
-	<dd>길 gil, <span class="dWildcard">kil</span></dd>
-	<dd>김 gim, <span class="dWildcard">kim</span></dd>
-	<dd>까 kka</dd>
-	<dd>깨 kkae</dd>
-	<dd>꼬 kko</dd>
-	<dd>꼭 kkok</dd>
-	<dd>꽃 kkot</dd>
-	<dd>꾀 kkoe</dd>
-	<dd>꾸 kku</dd>
-	<dd>꿈 kkum</dd>
-	<dd>끝 kkeut</dd>
-	<dd>끼 kki</dd>
+<dd class="singleColumn"><div class="box"><label>가</label>ga, <span class="dWildcard">ka</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>각</label>gak</div></dd>
+<dd class="singleColumn"><div class="box"><label>간</label>gan, <span class="dWildcard">kan</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>갈</label>gal</div></dd>
+<dd class="singleColumn"><div class="box"><label>감</label>gam</div></dd>
+<dd class="singleColumn"><div class="box"><label>갑</label>gap</div></dd>
+<dd class="singleColumn"><div class="box"><label>갓</label>gat</div></dd>
+<dd class="singleColumn"><div class="box"><label>강</label>gang, <span class="dWildcard">kang</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>개</label>gae</div></dd>
+<dd class="singleColumn"><div class="box"><label>객</label>gaek</div></dd>
+<dd class="singleColumn"><div class="box"><label>거</label>geo</div></dd>
+<dd class="singleColumn"><div class="box"><label>건</label>geon</div></dd>
+<dd class="singleColumn"><div class="box"><label>걸</label>geol</div></dd>
+<dd class="singleColumn"><div class="box"><label>검</label>geom</div></dd>
+<dd class="singleColumn"><div class="box"><label>겁</label>geop</div></dd>
+<dd class="singleColumn"><div class="box"><label>게</label>ge</div></dd>
+<dd class="singleColumn"><div class="box"><label>겨</label>gyeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>격</label>gyeok</div></dd>
+<dd class="singleColumn"><div class="box"><label>견</label>gyeon, <span class="dWildcard">kyun</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>결</label>gyeol</div></dd>
+<dd class="singleColumn"><div class="box"><label>겸</label>gyeom</div></dd>
+<dd class="singleColumn"><div class="box"><label>겹</label>gyeop</div></dd>
+<dd class="singleColumn"><div class="box"><label>경</label>gyeong, <span class="dWildcard">kyung</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>계</label>gye</div></dd>
+<dd class="singleColumn"><div class="box"><label>고</label>go, <span class="dWildcard">ko</span>, <span class="dWildcard">koh</span>, <span class="dWildcard">goh</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>곡</label>gok</div></dd>
+<dd class="singleColumn"><div class="box"><label>곤</label>gon</div></dd>
+<dd class="singleColumn"><div class="box"><label>골</label>gol</div></dd>
+<dd class="singleColumn"><div class="box"><label>곳</label>got</div></dd>
+<dd class="singleColumn"><div class="box"><label>공</label>gong, <span class="dWildcard">kong</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>곶</label>got</div></dd>
+<dd class="singleColumn"><div class="box"><label>과</label>gwa</div></dd>
+<dd class="singleColumn"><div class="box"><label>곽</label>gwak, <span class="dWildcard">kwak</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>관</label>gwan</div></dd>
+<dd class="singleColumn"><div class="box"><label>괄</label>gwal</div></dd>
+<dd class="singleColumn"><div class="box"><label>광</label>gwang</div></dd>
+<dd class="singleColumn"><div class="box"><label>괘</label>gwae</div></dd>
+<dd class="singleColumn"><div class="box"><label>괴</label>goe</div></dd>
+<dd class="singleColumn"><div class="box"><label>굉</label>goeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>교</label>gyo</div></dd>
+<dd class="singleColumn"><div class="box"><label>구</label>gu, <span class="dWildcard">koo</span>, <span class="dWildcard">ku</span>, <span class="dWildcard">goo</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>국</label>guk, <span class="dWildcard">kook</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>군</label>gun</div></dd>
+<dd class="singleColumn"><div class="box"><label>굴</label>gul</div></dd>
+<dd class="singleColumn"><div class="box"><label>굿</label>gut</div></dd>
+<dd class="singleColumn"><div class="box"><label>궁</label>gung</div></dd>
+<dd class="singleColumn"><div class="box"><label>권</label>gwon, <span class="dWildcard">kwon</span>, <span class="dWildcard">kwuan</span>, <span class="dWildcard">gwen</span>, <span class="dWildcard">kwun</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>궐</label>gwol</div></dd>
+<dd class="singleColumn"><div class="box"><label>귀</label>gwi</div></dd>
+<dd class="singleColumn"><div class="box"><label>규</label>gyu</div></dd>
+<dd class="singleColumn"><div class="box"><label>균</label>gyun</div></dd>
+<dd class="singleColumn"><div class="box"><label>귤</label>gyul</div></dd>
+<dd class="singleColumn"><div class="box"><label>그</label>geu</div></dd>
+<dd class="singleColumn"><div class="box"><label>극</label>geuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>근</label>geun</div></dd>
+<dd class="singleColumn"><div class="box"><label>글</label>geul</div></dd>
+<dd class="singleColumn"><div class="box"><label>금</label>geum, <span class="dWildcard">kum</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>급</label>geup</div></dd>
+<dd class="singleColumn"><div class="box"><label>긍</label>geung</div></dd>
+<dd class="singleColumn"><div class="box"><label>기</label>gi, <span class="dWildcard">ki</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>긴</label>gin</div></dd>
+<dd class="singleColumn"><div class="box"><label>길</label>gil, <span class="dWildcard">kil</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>김</label>gim, <span class="dWildcard">kim</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>까</label>kka</div></dd>
+<dd class="singleColumn"><div class="box"><label>깨</label>kkae</div></dd>
+<dd class="singleColumn"><div class="box"><label>꼬</label>kko</div></dd>
+<dd class="singleColumn"><div class="box"><label>꼭</label>kkok</div></dd>
+<dd class="singleColumn"><div class="box"><label>꽃</label>kkot</div></dd>
+<dd class="singleColumn"><div class="box"><label>꾀</label>kkoe</div></dd>
+<dd class="singleColumn"><div class="box"><label>꾸</label>kku</div></dd>
+<dd class="singleColumn"><div class="box"><label>꿈</label>kkum</div></dd>
+<dd class="singleColumn"><div class="box"><label>끝</label>kkeut</div></dd>
+<dd class="singleColumn"><div class="box"><label>끼</label>kki</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㄴ]</dt>
-	<dd>나 na</dd>
-	<dd>낙 nak</dd>
-	<dd>난 nan</dd>
-	<dd>날 nal</dd>
-	<dd>남 nam</dd>
-	<dd>납 nap</dd>
-	<dd>낭 nang</dd>
-	<dd>내 nae</dd>
-	<dd>냉 naeng</dd>
-	<dd>너 neo</dd>
-	<dd>널 neol</dd>
-	<dd>네 ne</dd>
-	<dd>녀 nyeo</dd>
-	<dd>녁 nyeok</dd>
-	<dd>년 nyeon</dd>
-	<dd>념 nyeom</dd>
-	<dd>녕 nyeong</dd>
-	<dd>노 no, <span class="dWildcard">noh</span>, <span class="dWildcard">roh</span>, <span class="dWildcard">ro</span>, <span class="dWildcard">rho</span></dd>
-	<dd>녹 nok</dd>
-	<dd>논 non</dd>
-	<dd>놀 nol</dd>
-	<dd>농 nong</dd>
-	<dd>뇌 noe</dd>
-	<dd>누 nu</dd>
-	<dd>눈 nun</dd>
-	<dd>눌 nul</dd>
-	<dd>느 neu</dd>
-	<dd>늑 neuk</dd>
-	<dd>늠 neum</dd>
-	<dd>능 neung</dd>
-	<dd>늬 nui</dd>
-	<dd>니 ni</dd>
-	<dd>닉 nik</dd>
-	<dd>닌 nin</dd>
-	<dd>닐 nil</dd>
-	<dd>님 nim</dd>
+<dd class="singleColumn"><div class="box"><label>나</label>na</div></dd>
+<dd class="singleColumn"><div class="box"><label>낙</label>nak</div></dd>
+<dd class="singleColumn"><div class="box"><label>난</label>nan</div></dd>
+<dd class="singleColumn"><div class="box"><label>날</label>nal</div></dd>
+<dd class="singleColumn"><div class="box"><label>남</label>nam</div></dd>
+<dd class="singleColumn"><div class="box"><label>납</label>nap</div></dd>
+<dd class="singleColumn"><div class="box"><label>낭</label>nang</div></dd>
+<dd class="singleColumn"><div class="box"><label>내</label>nae</div></dd>
+<dd class="singleColumn"><div class="box"><label>냉</label>naeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>너</label>neo</div></dd>
+<dd class="singleColumn"><div class="box"><label>널</label>neol</div></dd>
+<dd class="singleColumn"><div class="box"><label>네</label>ne</div></dd>
+<dd class="singleColumn"><div class="box"><label>녀</label>nyeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>녁</label>nyeok</div></dd>
+<dd class="singleColumn"><div class="box"><label>년</label>nyeon</div></dd>
+<dd class="singleColumn"><div class="box"><label>념</label>nyeom</div></dd>
+<dd class="singleColumn"><div class="box"><label>녕</label>nyeong</div></dd>
+<dd class="singleColumn"><div class="box"><label>노</label>no, <span class="dWildcard">noh</span>, <span class="dWildcard">roh</span>, <span class="dWildcard">ro</span>, <span class="dWildcard">rho</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>녹</label>nok</div></dd>
+<dd class="singleColumn"><div class="box"><label>논</label>non</div></dd>
+<dd class="singleColumn"><div class="box"><label>놀</label>nol</div></dd>
+<dd class="singleColumn"><div class="box"><label>농</label>nong</div></dd>
+<dd class="singleColumn"><div class="box"><label>뇌</label>noe</div></dd>
+<dd class="singleColumn"><div class="box"><label>누</label>nu</div></dd>
+<dd class="singleColumn"><div class="box"><label>눈</label>nun</div></dd>
+<dd class="singleColumn"><div class="box"><label>눌</label>nul</div></dd>
+<dd class="singleColumn"><div class="box"><label>느</label>neu</div></dd>
+<dd class="singleColumn"><div class="box"><label>늑</label>neuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>늠</label>neum</div></dd>
+<dd class="singleColumn"><div class="box"><label>능</label>neung</div></dd>
+<dd class="singleColumn"><div class="box"><label>늬</label>nui</div></dd>
+<dd class="singleColumn"><div class="box"><label>니</label>ni</div></dd>
+<dd class="singleColumn"><div class="box"><label>닉</label>nik</div></dd>
+<dd class="singleColumn"><div class="box"><label>닌</label>nin</div></dd>
+<dd class="singleColumn"><div class="box"><label>닐</label>nil</div></dd>
+<dd class="singleColumn"><div class="box"><label>님</label>nim</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㄷ]</dt>
-	<dd>다 da</dd>
-	<dd>단 dan</dd>
-	<dd>달 dal</dd>
-	<dd>담 dam</dd>
-	<dd>답 dap</dd>
-	<dd>당 dang</dd>
-	<dd>대 dae</dd>
-	<dd>댁 daek</dd>
-	<dd>더 deo</dd>
-	<dd>덕 deok</dd>
-	<dd>도 do</dd>
-	<dd>독 dok</dd>
-	<dd>돈 don</dd>
-	<dd>돌 dol</dd>
-	<dd>동 dong</dd>
-	<dd>돼 dwae</dd>
-	<dd>되 doe</dd>
-	<dd>된 doen</dd>
-	<dd>두 du</dd>
-	<dd>둑 duk</dd>
-	<dd>둔 dun</dd>
-	<dd>뒤 dwi</dd>
-	<dd>드 deu</dd>
-	<dd>득 deuk</dd>
-	<dd>들 deul</dd>
-	<dd>등 deung</dd>
-	<dd>디 di</dd>
-	<dd>따 tta</dd>
-	<dd>땅 ttang</dd>
-	<dd>때 ttae</dd>
-	<dd>또 tto</dd>
-	<dd>뚜 ttu</dd>
-	<dd>뚝 ttuk</dd>
-	<dd>뜨 tteu</dd>
-	<dd>띠 tti</dd>
+<dd class="singleColumn"><div class="box"><label>다</label>da</div></dd>
+<dd class="singleColumn"><div class="box"><label>단</label>dan</div></dd>
+<dd class="singleColumn"><div class="box"><label>달</label>dal</div></dd>
+<dd class="singleColumn"><div class="box"><label>담</label>dam</div></dd>
+<dd class="singleColumn"><div class="box"><label>답</label>dap</div></dd>
+<dd class="singleColumn"><div class="box"><label>당</label>dang</div></dd>
+<dd class="singleColumn"><div class="box"><label>대</label>dae</div></dd>
+<dd class="singleColumn"><div class="box"><label>댁</label>daek</div></dd>
+<dd class="singleColumn"><div class="box"><label>더</label>deo</div></dd>
+<dd class="singleColumn"><div class="box"><label>덕</label>deok</div></dd>
+<dd class="singleColumn"><div class="box"><label>도</label>do</div></dd>
+<dd class="singleColumn"><div class="box"><label>독</label>dok</div></dd>
+<dd class="singleColumn"><div class="box"><label>돈</label>don</div></dd>
+<dd class="singleColumn"><div class="box"><label>돌</label>dol</div></dd>
+<dd class="singleColumn"><div class="box"><label>동</label>dong</div></dd>
+<dd class="singleColumn"><div class="box"><label>돼</label>dwae</div></dd>
+<dd class="singleColumn"><div class="box"><label>되</label>doe</div></dd>
+<dd class="singleColumn"><div class="box"><label>된</label>doen</div></dd>
+<dd class="singleColumn"><div class="box"><label>두</label>du</div></dd>
+<dd class="singleColumn"><div class="box"><label>둑</label>duk</div></dd>
+<dd class="singleColumn"><div class="box"><label>둔</label>dun</div></dd>
+<dd class="singleColumn"><div class="box"><label>뒤</label>dwi</div></dd>
+<dd class="singleColumn"><div class="box"><label>드</label>deu</div></dd>
+<dd class="singleColumn"><div class="box"><label>득</label>deuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>들</label>deul</div></dd>
+<dd class="singleColumn"><div class="box"><label>등</label>deung</div></dd>
+<dd class="singleColumn"><div class="box"><label>디</label>di</div></dd>
+<dd class="singleColumn"><div class="box"><label>따</label>tta</div></dd>
+<dd class="singleColumn"><div class="box"><label>땅</label>ttang</div></dd>
+<dd class="singleColumn"><div class="box"><label>때</label>ttae</div></dd>
+<dd class="singleColumn"><div class="box"><label>또</label>tto</div></dd>
+<dd class="singleColumn"><div class="box"><label>뚜</label>ttu</div></dd>
+<dd class="singleColumn"><div class="box"><label>뚝</label>ttuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>뜨</label>tteu</div></dd>
+<dd class="singleColumn"><div class="box"><label>띠</label>tti</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㄹ]</dt>
-	<dd>라 ra</dd>
-	<dd>락 rak</dd>
-	<dd>란 ran</dd>
-	<dd>람 ram</dd>
-	<dd>랑 rang</dd>
-	<dd>래 rae</dd>
-	<dd>랭 raeng</dd>
-	<dd>량 ryang</dd>
-	<dd>렁 reong</dd>
-	<dd>레 re</dd>
-	<dd>려 ryeo</dd>
-	<dd>력 ryeok</dd>
-	<dd>련 ryeon</dd>
-	<dd>렬 ryeol</dd>
-	<dd>렴 ryeom</dd>
-	<dd>렵 ryeop</dd>
-	<dd>령 ryeong</dd>
-	<dd>례 rye</dd>
-	<dd>로 ro</dd>
-	<dd>록 rok</dd>
-	<dd>론 ron</dd>
-	<dd>롱 rong</dd>
-	<dd>뢰 roe</dd>
-	<dd>료 ryo</dd>
-	<dd>룡 ryong</dd>
-	<dd>루 ru</dd>
-	<dd>류 ryu, <span class="dWildcard">ryoo</span>, <span class="dWildcard">lyu</span></dd>
-	<dd>륙 ryuk</dd>
-	<dd>륜 ryun</dd>
-	<dd>률 ryul</dd>
-	<dd>륭 ryung</dd>
-	<dd>르 reu</dd>
-	<dd>륵 reuk</dd>
-	<dd>른 reun</dd>
-	<dd>름 reum</dd>
-	<dd>릉 reung</dd>
-	<dd>리 ri</dd>
-	<dd>린 rin</dd>
-	<dd>림 rim</dd>
-	<dd>립 rip</dd>
+<dd class="singleColumn"><div class="box"><label>라</label>ra</div></dd>
+<dd class="singleColumn"><div class="box"><label>락</label>rak</div></dd>
+<dd class="singleColumn"><div class="box"><label>란</label>ran</div></dd>
+<dd class="singleColumn"><div class="box"><label>람</label>ram</div></dd>
+<dd class="singleColumn"><div class="box"><label>랑</label>rang</div></dd>
+<dd class="singleColumn"><div class="box"><label>래</label>rae</div></dd>
+<dd class="singleColumn"><div class="box"><label>랭</label>raeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>량</label>ryang</div></dd>
+<dd class="singleColumn"><div class="box"><label>렁</label>reong</div></dd>
+<dd class="singleColumn"><div class="box"><label>레</label>re</div></dd>
+<dd class="singleColumn"><div class="box"><label>려</label>ryeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>력</label>ryeok</div></dd>
+<dd class="singleColumn"><div class="box"><label>련</label>ryeon</div></dd>
+<dd class="singleColumn"><div class="box"><label>렬</label>ryeol</div></dd>
+<dd class="singleColumn"><div class="box"><label>렴</label>ryeom</div></dd>
+<dd class="singleColumn"><div class="box"><label>렵</label>ryeop</div></dd>
+<dd class="singleColumn"><div class="box"><label>령</label>ryeong</div></dd>
+<dd class="singleColumn"><div class="box"><label>례</label>rye</div></dd>
+<dd class="singleColumn"><div class="box"><label>로</label>ro</div></dd>
+<dd class="singleColumn"><div class="box"><label>록</label>rok</div></dd>
+<dd class="singleColumn"><div class="box"><label>론</label>ron</div></dd>
+<dd class="singleColumn"><div class="box"><label>롱</label>rong</div></dd>
+<dd class="singleColumn"><div class="box"><label>뢰</label>roe</div></dd>
+<dd class="singleColumn"><div class="box"><label>료</label>ryo</div></dd>
+<dd class="singleColumn"><div class="box"><label>룡</label>ryong</div></dd>
+<dd class="singleColumn"><div class="box"><label>루</label>ru</div></dd>
+<dd class="singleColumn"><div class="box"><label>류</label>ryu, <span class="dWildcard">ryoo</span>, <span class="dWildcard">lyu</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>륙</label>ryuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>륜</label>ryun</div></dd>
+<dd class="singleColumn"><div class="box"><label>률</label>ryul</div></dd>
+<dd class="singleColumn"><div class="box"><label>륭</label>ryung</div></dd>
+<dd class="singleColumn"><div class="box"><label>르</label>reu</div></dd>
+<dd class="singleColumn"><div class="box"><label>륵</label>reuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>른</label>reun</div></dd>
+<dd class="singleColumn"><div class="box"><label>름</label>reum</div></dd>
+<dd class="singleColumn"><div class="box"><label>릉</label>reung</div></dd>
+<dd class="singleColumn"><div class="box"><label>리</label>ri</div></dd>
+<dd class="singleColumn"><div class="box"><label>린</label>rin</div></dd>
+<dd class="singleColumn"><div class="box"><label>림</label>rim</div></dd>
+<dd class="singleColumn"><div class="box"><label>립</label>rip</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅁ]</dt>
-	<dd>마 ma</dd>
-	<dd>막 mak</dd>
-	<dd>만 man</dd>
-	<dd>말 mal</dd>
-	<dd>망 mang</dd>
-	<dd>매 mae</dd>
-	<dd>맥 maek</dd>
-	<dd>맨 maen</dd>
-	<dd>맹 maeng</dd>
-	<dd>머 meo</dd>
-	<dd>먹 meok</dd>
-	<dd>메 me</dd>
-	<dd>며 myeo</dd>
-	<dd>멱 myeok</dd>
-	<dd>면 myeon</dd>
-	<dd>멸 myeol</dd>
-	<dd>명 myeong, <span class="dWildcard">myoung</span></dd>
-	<dd>모 mo</dd>
-	<dd>목 mok</dd>
-	<dd>몰 mol</dd>
-	<dd>못 mot</dd>
-	<dd>몽 mong</dd>
-	<dd>뫼 moe</dd>
-	<dd>묘 myo</dd>
-	<dd>무 mu</dd>
-	<dd>묵 muk</dd>
-	<dd>문 mun, <span class="dWildcard">moon</span></dd>
-	<dd>물 mul</dd>
-	<dd>므 meu</dd>
-	<dd>미 mi</dd>
-	<dd>민 min</dd>
-	<dd>밀 mil</dd>
+<dd class="singleColumn"><div class="box"><label>마</label>ma</div></dd>
+<dd class="singleColumn"><div class="box"><label>막</label>mak</div></dd>
+<dd class="singleColumn"><div class="box"><label>만</label>man</div></dd>
+<dd class="singleColumn"><div class="box"><label>말</label>mal</div></dd>
+<dd class="singleColumn"><div class="box"><label>망</label>mang</div></dd>
+<dd class="singleColumn"><div class="box"><label>매</label>mae</div></dd>
+<dd class="singleColumn"><div class="box"><label>맥</label>maek</div></dd>
+<dd class="singleColumn"><div class="box"><label>맨</label>maen</div></dd>
+<dd class="singleColumn"><div class="box"><label>맹</label>maeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>머</label>meo</div></dd>
+<dd class="singleColumn"><div class="box"><label>먹</label>meok</div></dd>
+<dd class="singleColumn"><div class="box"><label>메</label>me</div></dd>
+<dd class="singleColumn"><div class="box"><label>며</label>myeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>멱</label>myeok</div></dd>
+<dd class="singleColumn"><div class="box"><label>면</label>myeon</div></dd>
+<dd class="singleColumn"><div class="box"><label>멸</label>myeol</div></dd>
+<dd class="singleColumn"><div class="box"><label>명</label>myeong, <span class="dWildcard">myoung</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>모</label>mo</div></dd>
+<dd class="singleColumn"><div class="box"><label>목</label>mok</div></dd>
+<dd class="singleColumn"><div class="box"><label>몰</label>mol</div></dd>
+<dd class="singleColumn"><div class="box"><label>못</label>mot</div></dd>
+<dd class="singleColumn"><div class="box"><label>몽</label>mong</div></dd>
+<dd class="singleColumn"><div class="box"><label>뫼</label>moe</div></dd>
+<dd class="singleColumn"><div class="box"><label>묘</label>myo</div></dd>
+<dd class="singleColumn"><div class="box"><label>무</label>mu</div></dd>
+<dd class="singleColumn"><div class="box"><label>묵</label>muk</div></dd>
+<dd class="singleColumn"><div class="box"><label>문</label>mun, <span class="dWildcard">moon</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>물</label>mul</div></dd>
+<dd class="singleColumn"><div class="box"><label>므</label>meu</div></dd>
+<dd class="singleColumn"><div class="box"><label>미</label>mi</div></dd>
+<dd class="singleColumn"><div class="box"><label>민</label>min</div></dd>
+<dd class="singleColumn"><div class="box"><label>밀</label>mil</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅂ]</dt>
-	<dd>바 ba</dd>
-	<dd>박 bak, <span class="dWildcard">park</span></dd>
-	<dd>반 ban</dd>
-	<dd>발 bal</dd>
-	<dd>밥 bap</dd>
-	<dd>방 bang</dd>
-	<dd>배 bae</dd>
-	<dd>백 baek, <span class="dWildcard">back</span>, <span class="dWildcard">paik</span>, <span class="dWildcard">bak</span>, <span class="dWildcard">pack</span></dd>
-	<dd>뱀 baem</dd>
-	<dd>버 beo</dd>
-	<dd>번 beon</dd>
-	<dd>벌 beol</dd>
-	<dd>범 beom</dd>
-	<dd>법 beop</dd>
-	<dd>벼 byeo</dd>
-	<dd>벽 byeok</dd>
-	<dd>변 byeon, <span class="dWildcard">byun</span>, <span class="dWildcard">byoun</span></dd>
-	<dd>별 byeol</dd>
-	<dd>병 byeong</dd>
-	<dd>보 bo</dd>
-	<dd>복 bok</dd>
-	<dd>본 bon</dd>
-	<dd>봉 bong</dd>
-	<dd>부 bu, <span class="dWildcard">boo</span></dd>
-	<dd>북 buk</dd>
-	<dd>분 bun</dd>
-	<dd>불 bul</dd>
-	<dd>붕 bung</dd>
-	<dd>비 bi</dd>
-	<dd>빈 bin</dd>
-	<dd>빌 bil</dd>
-	<dd>빔 bim</dd>
-	<dd>빙 bing</dd>
-	<dd>빠 ppa</dd>
-	<dd>빼 ppae</dd>
-	<dd>뻐 ppeo</dd>
-	<dd>뽀 ppo</dd>
-	<dd>뿌 ppu</dd>
-	<dd>쁘 ppeu</dd>
-	<dd>삐 ppi</dd>
+<dd class="singleColumn"><div class="box"><label>바</label>ba</div></dd>
+<dd class="singleColumn"><div class="box"><label>박</label>bak, <span class="dWildcard">park</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>반</label>ban</div></dd>
+<dd class="singleColumn"><div class="box"><label>발</label>bal</div></dd>
+<dd class="singleColumn"><div class="box"><label>밥</label>bap</div></dd>
+<dd class="singleColumn"><div class="box"><label>방</label>bang</div></dd>
+<dd class="singleColumn"><div class="box"><label>배</label>bae</div></dd>
+<dd class="singleColumn"><div class="box"><label>백</label>baek, <span class="dWildcard">back</span>, <span class="dWildcard">paik</span>, <span class="dWildcard">bak</span>, <span class="dWildcard">pack</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>뱀</label>baem</div></dd>
+<dd class="singleColumn"><div class="box"><label>버</label>beo</div></dd>
+<dd class="singleColumn"><div class="box"><label>번</label>beon</div></dd>
+<dd class="singleColumn"><div class="box"><label>벌</label>beol</div></dd>
+<dd class="singleColumn"><div class="box"><label>범</label>beom</div></dd>
+<dd class="singleColumn"><div class="box"><label>법</label>beop</div></dd>
+<dd class="singleColumn"><div class="box"><label>벼</label>byeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>벽</label>byeok</div></dd>
+<dd class="singleColumn"><div class="box"><label>변</label>byeon, <span class="dWildcard">byun</span>, <span class="dWildcard">byoun</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>별</label>byeol</div></dd>
+<dd class="singleColumn"><div class="box"><label>병</label>byeong</div></dd>
+<dd class="singleColumn"><div class="box"><label>보</label>bo</div></dd>
+<dd class="singleColumn"><div class="box"><label>복</label>bok</div></dd>
+<dd class="singleColumn"><div class="box"><label>본</label>bon</div></dd>
+<dd class="singleColumn"><div class="box"><label>봉</label>bong</div></dd>
+<dd class="singleColumn"><div class="box"><label>부</label>bu, <span class="dWildcard">boo</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>북</label>buk</div></dd>
+<dd class="singleColumn"><div class="box"><label>분</label>bun</div></dd>
+<dd class="singleColumn"><div class="box"><label>불</label>bul</div></dd>
+<dd class="singleColumn"><div class="box"><label>붕</label>bung</div></dd>
+<dd class="singleColumn"><div class="box"><label>비</label>bi</div></dd>
+<dd class="singleColumn"><div class="box"><label>빈</label>bin</div></dd>
+<dd class="singleColumn"><div class="box"><label>빌</label>bil</div></dd>
+<dd class="singleColumn"><div class="box"><label>빔</label>bim</div></dd>
+<dd class="singleColumn"><div class="box"><label>빙</label>bing</div></dd>
+<dd class="singleColumn"><div class="box"><label>빠</label>ppa</div></dd>
+<dd class="singleColumn"><div class="box"><label>빼</label>ppae</div></dd>
+<dd class="singleColumn"><div class="box"><label>뻐</label>ppeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>뽀</label>ppo</div></dd>
+<dd class="singleColumn"><div class="box"><label>뿌</label>ppu</div></dd>
+<dd class="singleColumn"><div class="box"><label>쁘</label>ppeu</div></dd>
+<dd class="singleColumn"><div class="box"><label>삐</label>ppi</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅅ]</dt>
-	<dd>사 sa</dd>
-	<dd>삭 sak</dd>
-	<dd>산 san</dd>
-	<dd>살 sal</dd>
-	<dd>삼 sam</dd>
-	<dd>삽 sap</dd>
-	<dd>상 sang</dd>
-	<dd>샅 sat</dd>
-	<dd>새 sae</dd>
-	<dd>색 saek</dd>
-	<dd>생 saeng</dd>
-	<dd>서 seo, <span class="dWildcard">suh</span></dd>
-	<dd>석 seok, <span class="dWildcard">suk</span></dd>
-	<dd>선 seon, <span class="dWildcard">sun</span></dd>
-	<dd>설 seol, <span class="dWildcard">sul</span></dd>
-	<dd>섬 seom</dd>
-	<dd>섭 seop</dd>
-	<dd>성 seong, <span class="dWildcard">sung</span></dd>
-	<dd>세 se</dd>
-	<dd>셔 syeo</dd>
-	<dd>소 so</dd>
-	<dd>속 sok</dd>
-	<dd>손 son</dd>
-	<dd>솔 sol</dd>
-	<dd>솟 sot</dd>
-	<dd>송 song</dd>
-	<dd>쇄 swae</dd>
-	<dd>쇠 soe</dd>
-	<dd>수 su, <span class="dWildcard">soo</span></dd>
-	<dd>숙 suk</dd>
-	<dd>순 sun</dd>
-	<dd>술 sul</dd>
-	<dd>숨 sum</dd>
-	<dd>숭 sung</dd>
-	<dd>쉬 swi</dd>
-	<dd>스 seu</dd>
-	<dd>슬 seul</dd>
-	<dd>슴 seum</dd>
-	<dd>습 seup</dd>
-	<dd>승 seung</dd>
-	<dd>시 si</dd>
-	<dd>식 sik</dd>
-	<dd>신 sin, <span class="dWildcard">shin</span></dd>
-	<dd>실 sil</dd>
-	<dd>심 sim, <span class="dWildcard">shim</span></dd>
-	<dd>십 sip</dd>
-	<dd>싱 sing</dd>
-	<dd>싸 ssa</dd>
-	<dd>쌍 ssang</dd>
-	<dd>쌔 ssae</dd>
-	<dd>쏘 sso</dd>
-	<dd>쑥 ssuk</dd>
-	<dd>씨 ssi</dd>
+<dd class="singleColumn"><div class="box"><label>사</label>sa</div></dd>
+<dd class="singleColumn"><div class="box"><label>삭</label>sak</div></dd>
+<dd class="singleColumn"><div class="box"><label>산</label>san</div></dd>
+<dd class="singleColumn"><div class="box"><label>살</label>sal</div></dd>
+<dd class="singleColumn"><div class="box"><label>삼</label>sam</div></dd>
+<dd class="singleColumn"><div class="box"><label>삽</label>sap</div></dd>
+<dd class="singleColumn"><div class="box"><label>상</label>sang</div></dd>
+<dd class="singleColumn"><div class="box"><label>샅</label>sat</div></dd>
+<dd class="singleColumn"><div class="box"><label>새</label>sae</div></dd>
+<dd class="singleColumn"><div class="box"><label>색</label>saek</div></dd>
+<dd class="singleColumn"><div class="box"><label>생</label>saeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>서</label>seo, <span class="dWildcard">suh</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>석</label>seok, <span class="dWildcard">suk</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>선</label>seon, <span class="dWildcard">sun</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>설</label>seol, <span class="dWildcard">sul</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>섬</label>seom</div></dd>
+<dd class="singleColumn"><div class="box"><label>섭</label>seop</div></dd>
+<dd class="singleColumn"><div class="box"><label>성</label>seong, <span class="dWildcard">sung</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>세</label>se</div></dd>
+<dd class="singleColumn"><div class="box"><label>셔</label>syeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>소</label>so</div></dd>
+<dd class="singleColumn"><div class="box"><label>속</label>sok</div></dd>
+<dd class="singleColumn"><div class="box"><label>손</label>son</div></dd>
+<dd class="singleColumn"><div class="box"><label>솔</label>sol</div></dd>
+<dd class="singleColumn"><div class="box"><label>솟</label>sot</div></dd>
+<dd class="singleColumn"><div class="box"><label>송</label>song</div></dd>
+<dd class="singleColumn"><div class="box"><label>쇄</label>swae</div></dd>
+<dd class="singleColumn"><div class="box"><label>쇠</label>soe</div></dd>
+<dd class="singleColumn"><div class="box"><label>수</label>su, <span class="dWildcard">soo</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>숙</label>suk</div></dd>
+<dd class="singleColumn"><div class="box"><label>순</label>sun</div></dd>
+<dd class="singleColumn"><div class="box"><label>술</label>sul</div></dd>
+<dd class="singleColumn"><div class="box"><label>숨</label>sum</div></dd>
+<dd class="singleColumn"><div class="box"><label>숭</label>sung</div></dd>
+<dd class="singleColumn"><div class="box"><label>쉬</label>swi</div></dd>
+<dd class="singleColumn"><div class="box"><label>스</label>seu</div></dd>
+<dd class="singleColumn"><div class="box"><label>슬</label>seul</div></dd>
+<dd class="singleColumn"><div class="box"><label>슴</label>seum</div></dd>
+<dd class="singleColumn"><div class="box"><label>습</label>seup</div></dd>
+<dd class="singleColumn"><div class="box"><label>승</label>seung</div></dd>
+<dd class="singleColumn"><div class="box"><label>시</label>si</div></dd>
+<dd class="singleColumn"><div class="box"><label>식</label>sik</div></dd>
+<dd class="singleColumn"><div class="box"><label>신</label>sin, <span class="dWildcard">shin</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>실</label>sil</div></dd>
+<dd class="singleColumn"><div class="box"><label>심</label>sim, <span class="dWildcard">shim</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>십</label>sip</div></dd>
+<dd class="singleColumn"><div class="box"><label>싱</label>sing</div></dd>
+<dd class="singleColumn"><div class="box"><label>싸</label>ssa</div></dd>
+<dd class="singleColumn"><div class="box"><label>쌍</label>ssang</div></dd>
+<dd class="singleColumn"><div class="box"><label>쌔</label>ssae</div></dd>
+<dd class="singleColumn"><div class="box"><label>쏘</label>sso</div></dd>
+<dd class="singleColumn"><div class="box"><label>쑥</label>ssuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>씨</label>ssi</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅇ]</dt>
-	<dd>아 a</dd>
-	<dd>악 ak</dd>
-	<dd>안 an, <span class="dWildcard">ahn</span>, <span class="dWildcard">ann</span></dd>
-	<dd>알 al</dd>
-	<dd>암 am</dd>
-	<dd>압 ap</dd>
-	<dd>앙 ang</dd>
-	<dd>앞 ap</dd>
-	<dd>애 ae</dd>
-	<dd>액 aek</dd>
-	<dd>앵 aeng</dd>
-	<dd>야 ya</dd>
-	<dd>약 yak</dd>
-	<dd>얀 yan</dd>
-	<dd>양 yang</dd>
-	<dd>어 eo, <span class="dWildcard">ou</span></dd>
-	<dd>억 eok</dd>
-	<dd>언 eon</dd>
-	<dd>얼 eol</dd>
-	<dd>엄 eom, <span class="dWildcard">um</span>, <span class="dWildcard">uhm</span></dd>
-	<dd>업 eop</dd>
-	<dd>에 e</dd>
-	<dd>여 yeo, <span class="dWildcard">yoe</span></dd>
-	<dd>역 yeok</dd>
-	<dd>연 yeon, <span class="dWildcard">youn</span></dd>
-	<dd>열 yeol</dd>
-	<dd>염 yeom, <span class="dWildcard">yum</span></dd>
-	<dd>엽 yeop</dd>
-	<dd>영 yeong, <span class="dWildcard">young</span></dd>
-	<dd>예 ye</dd>
-	<dd>오 o, <span class="dWildcard">oh</span></dd>
-	<dd>옥 ok</dd>
-	<dd>온 on</dd>
-	<dd>올 ol</dd>
-	<dd>옴 om</dd>
-	<dd>옹 ong</dd>
-	<dd>와 wa</dd>
-	<dd>완 wan</dd>
-	<dd>왈 wal</dd>
-	<dd>왕 wang</dd>
-	<dd>왜 wae</dd>
-	<dd>외 oe</dd>
-	<dd>왼 oen</dd>
-	<dd>요 yo</dd>
-	<dd>욕 yok</dd>
-	<dd>용 yong</dd>
-	<dd>우 u, <span class="dWildcard">woo</span></dd>
-	<dd>욱 uk</dd>
-	<dd>운 un</dd>
-	<dd>울 ul</dd>
-	<dd>움 um</dd>
-	<dd>웅 ung</dd>
-	<dd>워 wo</dd>
-	<dd>원 won</dd>
-	<dd>월 wol</dd>
-	<dd>위 wi, <span class="dWildcard">wie</span>, <span class="dWildcard">we</span></dd>
-	<dd>유 yu, <span class="dWildcard">yoo</span>, <span class="dWildcard">you</span>, <span class="dWildcard">ryu</span>, <span class="dWildcard">u</span></dd>
-	<dd>육 yuk</dd>
-	<dd>윤 yun, <span class="dWildcard">yoon</span>, <span class="dWildcard">youn</span>, <span class="dWildcard">you</span>, <span class="dWildcard">yon</span></dd>
-	<dd>율 yul</dd>
-	<dd>융 yung</dd>
-	<dd>윷 yut</dd>
-	<dd>으 eu</dd>
-	<dd>은 eun</dd>
-	<dd>을 eul</dd>
-	<dd>음 eum</dd>
-	<dd>읍 eup</dd>
-	<dd>응 eung</dd>
-	<dd>의 ui</dd>
-	<dd>이 i, <span class="dWildcard">lee</span></dd>
-	<dd>익 ik</dd>
-	<dd>인 in</dd>
-	<dd>일 il</dd>
-	<dd>임 im, <span class="dWildcard">lim</span>, <span class="dWildcard">lym</span>, <span class="dWildcard">leem</span>, <span class="dWildcard">yim</span>, <span class="dWildcard">rim</span></dd>
-	<dd>입 ip</dd>
-	<dd>잉 ing</dd>
+<dd class="singleColumn"><div class="box"><label>아</label>a</div></dd>
+<dd class="singleColumn"><div class="box"><label>악</label>ak</div></dd>
+<dd class="singleColumn"><div class="box"><label>안</label>an, <span class="dWildcard">ahn</span>, <span class="dWildcard">ann</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>알</label>al</div></dd>
+<dd class="singleColumn"><div class="box"><label>암</label>am</div></dd>
+<dd class="singleColumn"><div class="box"><label>압</label>ap</div></dd>
+<dd class="singleColumn"><div class="box"><label>앙</label>ang</div></dd>
+<dd class="singleColumn"><div class="box"><label>앞</label>ap</div></dd>
+<dd class="singleColumn"><div class="box"><label>애</label>ae</div></dd>
+<dd class="singleColumn"><div class="box"><label>액</label>aek</div></dd>
+<dd class="singleColumn"><div class="box"><label>앵</label>aeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>야</label>ya</div></dd>
+<dd class="singleColumn"><div class="box"><label>약</label>yak</div></dd>
+<dd class="singleColumn"><div class="box"><label>얀</label>yan</div></dd>
+<dd class="singleColumn"><div class="box"><label>양</label>yang</div></dd>
+<dd class="singleColumn"><div class="box"><label>어</label>eo, <span class="dWildcard">ou</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>억</label>eok</div></dd>
+<dd class="singleColumn"><div class="box"><label>언</label>eon</div></dd>
+<dd class="singleColumn"><div class="box"><label>얼</label>eol</div></dd>
+<dd class="singleColumn"><div class="box"><label>엄</label>eom, <span class="dWildcard">um</span>, <span class="dWildcard">uhm</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>업</label>eop</div></dd>
+<dd class="singleColumn"><div class="box"><label>에</label>e</div></dd>
+<dd class="singleColumn"><div class="box"><label>여</label>yeo, <span class="dWildcard">yoe</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>역</label>yeok</div></dd>
+<dd class="singleColumn"><div class="box"><label>연</label>yeon, <span class="dWildcard">youn</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>열</label>yeol</div></dd>
+<dd class="singleColumn"><div class="box"><label>염</label>yeom, <span class="dWildcard">yum</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>엽</label>yeop</div></dd>
+<dd class="singleColumn"><div class="box"><label>영</label>yeong, <span class="dWildcard">young</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>예</label>ye</div></dd>
+<dd class="singleColumn"><div class="box"><label>오</label>o, <span class="dWildcard">oh</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>옥</label>ok</div></dd>
+<dd class="singleColumn"><div class="box"><label>온</label>on</div></dd>
+<dd class="singleColumn"><div class="box"><label>올</label>ol</div></dd>
+<dd class="singleColumn"><div class="box"><label>옴</label>om</div></dd>
+<dd class="singleColumn"><div class="box"><label>옹</label>ong</div></dd>
+<dd class="singleColumn"><div class="box"><label>와</label>wa</div></dd>
+<dd class="singleColumn"><div class="box"><label>완</label>wan</div></dd>
+<dd class="singleColumn"><div class="box"><label>왈</label>wal</div></dd>
+<dd class="singleColumn"><div class="box"><label>왕</label>wang</div></dd>
+<dd class="singleColumn"><div class="box"><label>왜</label>wae</div></dd>
+<dd class="singleColumn"><div class="box"><label>외</label>oe</div></dd>
+<dd class="singleColumn"><div class="box"><label>왼</label>oen</div></dd>
+<dd class="singleColumn"><div class="box"><label>요</label>yo</div></dd>
+<dd class="singleColumn"><div class="box"><label>욕</label>yok</div></dd>
+<dd class="singleColumn"><div class="box"><label>용</label>yong</div></dd>
+<dd class="singleColumn"><div class="box"><label>우</label>u, <span class="dWildcard">woo</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>욱</label>uk</div></dd>
+<dd class="singleColumn"><div class="box"><label>운</label>un</div></dd>
+<dd class="singleColumn"><div class="box"><label>울</label>ul</div></dd>
+<dd class="singleColumn"><div class="box"><label>움</label>um</div></dd>
+<dd class="singleColumn"><div class="box"><label>웅</label>ung</div></dd>
+<dd class="singleColumn"><div class="box"><label>워</label>wo</div></dd>
+<dd class="singleColumn"><div class="box"><label>원</label>won</div></dd>
+<dd class="singleColumn"><div class="box"><label>월</label>wol</div></dd>
+<dd class="singleColumn"><div class="box"><label>위</label>wi, <span class="dWildcard">wie</span>, <span class="dWildcard">we</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>유</label>yu, <span class="dWildcard">yoo</span>, <span class="dWildcard">you</span>, <span class="dWildcard">ryu</span>, <span class="dWildcard">u</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>육</label>yuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>윤</label>yun, <span class="dWildcard">yoon</span>, <span class="dWildcard">youn</span>, <span class="dWildcard">you</span>, <span class="dWildcard">yon</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>율</label>yul</div></dd>
+<dd class="singleColumn"><div class="box"><label>융</label>yung</div></dd>
+<dd class="singleColumn"><div class="box"><label>윷</label>yut</div></dd>
+<dd class="singleColumn"><div class="box"><label>으</label>eu</div></dd>
+<dd class="singleColumn"><div class="box"><label>은</label>eun</div></dd>
+<dd class="singleColumn"><div class="box"><label>을</label>eul</div></dd>
+<dd class="singleColumn"><div class="box"><label>음</label>eum</div></dd>
+<dd class="singleColumn"><div class="box"><label>읍</label>eup</div></dd>
+<dd class="singleColumn"><div class="box"><label>응</label>eung</div></dd>
+<dd class="singleColumn"><div class="box"><label>의</label>ui</div></dd>
+<dd class="singleColumn"><div class="box"><label>이</label>i, <span class="dWildcard">lee</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>익</label>ik</div></dd>
+<dd class="singleColumn"><div class="box"><label>인</label>in</div></dd>
+<dd class="singleColumn"><div class="box"><label>일</label>il</div></dd>
+<dd class="singleColumn"><div class="box"><label>임</label>im, <span class="dWildcard">lim</span>, <span class="dWildcard">lym</span>, <span class="dWildcard">leem</span>, <span class="dWildcard">yim</span>, <span class="dWildcard">rim</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>입</label>ip</div></dd>
+<dd class="singleColumn"><div class="box"><label>잉</label>ing</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅈ]</dt>
-	<dd>자 ja</dd>
-	<dd>작 jak</dd>
-	<dd>잔 jan</dd>
-	<dd>잠 jam</dd>
-	<dd>잡 jap</dd>
-	<dd>장 jang, <span class="dWildcard">chang</span></dd>
-	<dd>재 jae</dd>
-	<dd>쟁 jaeng</dd>
-	<dd>저 jeo</dd>
-	<dd>적 jeok</dd>
-	<dd>전 jeon, <span class="dWildcard">jun</span>, <span class="dWildcard">cheon</span>, <span class="dWildcard">chun</span></dd>
-	<dd>절 jeol</dd>
-	<dd>점 jeom</dd>
-	<dd>접 jeop</dd>
-	<dd>정 jeong, <span class="dWildcard">jung</span>, <span class="dWildcard">chung</span>, <span class="dWildcard">cheong</span>, <span class="dWildcard">jeng</span></dd>
-	<dd>제 je, <span class="dWildcard">jae</span></dd>
-	<dd>조 jo, <span class="dWildcard">cho</span>, <span class="dWildcard">joe</span></dd>
-	<dd>족 jok</dd>
-	<dd>존 jon</dd>
-	<dd>졸 jol</dd>
-	<dd>종 jong</dd>
-	<dd>좌 jwa</dd>
-	<dd>죄 joe</dd>
-	<dd>주 ju, <span class="dWildcard">joo</span>, <span class="dWildcard">choo</span></dd>
-	<dd>죽 juk</dd>
-	<dd>준 jun</dd>
-	<dd>줄 jul</dd>
-	<dd>중 jung</dd>
-	<dd>쥐 jwi</dd>
-	<dd>즈 jeu</dd>
-	<dd>즉 jeuk</dd>
-	<dd>즐 jeul</dd>
-	<dd>즘 jeum</dd>
-	<dd>즙 jeup</dd>
-	<dd>증 jeung</dd>
-	<dd>지 ji, <span class="dWildcard">jee</span></dd>
-	<dd>직 jik</dd>
-	<dd>진 jin, <span class="dWildcard">chin</span></dd>
-	<dd>질 jil</dd>
-	<dd>짐 jim</dd>
-	<dd>집 jip</dd>
-	<dd>징 jing</dd>
-	<dd>짜 jja</dd>
-	<dd>째 jjae</dd>
-	<dd>쪼 jjo</dd>
-	<dd>찌 jji</dd>
+<dd class="singleColumn"><div class="box"><label>자</label>ja</div></dd>
+<dd class="singleColumn"><div class="box"><label>작</label>jak</div></dd>
+<dd class="singleColumn"><div class="box"><label>잔</label>jan</div></dd>
+<dd class="singleColumn"><div class="box"><label>잠</label>jam</div></dd>
+<dd class="singleColumn"><div class="box"><label>잡</label>jap</div></dd>
+<dd class="singleColumn"><div class="box"><label>장</label>jang, <span class="dWildcard">chang</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>재</label>jae</div></dd>
+<dd class="singleColumn"><div class="box"><label>쟁</label>jaeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>저</label>jeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>적</label>jeok</div></dd>
+<dd class="singleColumn"><div class="box"><label>전</label>jeon, <span class="dWildcard">jun</span>, <span class="dWildcard">cheon</span>, <span class="dWildcard">chun</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>절</label>jeol</div></dd>
+<dd class="singleColumn"><div class="box"><label>점</label>jeom</div></dd>
+<dd class="singleColumn"><div class="box"><label>접</label>jeop</div></dd>
+<dd class="singleColumn"><div class="box"><label>정</label>jeong, <span class="dWildcard">jung</span>, <span class="dWildcard">chung</span>, <span class="dWildcard">cheong</span>, <span class="dWildcard">jeng</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>제</label>je, <span class="dWildcard">jae</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>조</label>jo, <span class="dWildcard">cho</span>, <span class="dWildcard">joe</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>족</label>jok</div></dd>
+<dd class="singleColumn"><div class="box"><label>존</label>jon</div></dd>
+<dd class="singleColumn"><div class="box"><label>졸</label>jol</div></dd>
+<dd class="singleColumn"><div class="box"><label>종</label>jong</div></dd>
+<dd class="singleColumn"><div class="box"><label>좌</label>jwa</div></dd>
+<dd class="singleColumn"><div class="box"><label>죄</label>joe</div></dd>
+<dd class="singleColumn"><div class="box"><label>주</label>ju, <span class="dWildcard">joo</span>, <span class="dWildcard">choo</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>죽</label>juk</div></dd>
+<dd class="singleColumn"><div class="box"><label>준</label>jun</div></dd>
+<dd class="singleColumn"><div class="box"><label>줄</label>jul</div></dd>
+<dd class="singleColumn"><div class="box"><label>중</label>jung</div></dd>
+<dd class="singleColumn"><div class="box"><label>쥐</label>jwi</div></dd>
+<dd class="singleColumn"><div class="box"><label>즈</label>jeu</div></dd>
+<dd class="singleColumn"><div class="box"><label>즉</label>jeuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>즐</label>jeul</div></dd>
+<dd class="singleColumn"><div class="box"><label>즘</label>jeum</div></dd>
+<dd class="singleColumn"><div class="box"><label>즙</label>jeup</div></dd>
+<dd class="singleColumn"><div class="box"><label>증</label>jeung</div></dd>
+<dd class="singleColumn"><div class="box"><label>지</label>ji, <span class="dWildcard">jee</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>직</label>jik</div></dd>
+<dd class="singleColumn"><div class="box"><label>진</label>jin, <span class="dWildcard">chin</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>질</label>jil</div></dd>
+<dd class="singleColumn"><div class="box"><label>짐</label>jim</div></dd>
+<dd class="singleColumn"><div class="box"><label>집</label>jip</div></dd>
+<dd class="singleColumn"><div class="box"><label>징</label>jing</div></dd>
+<dd class="singleColumn"><div class="box"><label>짜</label>jja</div></dd>
+<dd class="singleColumn"><div class="box"><label>째</label>jjae</div></dd>
+<dd class="singleColumn"><div class="box"><label>쪼</label>jjo</div></dd>
+<dd class="singleColumn"><div class="box"><label>찌</label>jji</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅊ]</dt>
-	<dd>차 cha</dd>
-	<dd>착 chak</dd>
-	<dd>찬 chan</dd>
-	<dd>찰 chal</dd>
-	<dd>참 cham</dd>
-	<dd>창 chang</dd>
-	<dd>채 chae, <span class="dWildcard">che</span></dd>
-	<dd>책 chaek</dd>
-	<dd>처 cheo</dd>
-	<dd>척 cheok</dd>
-	<dd>천 cheon, <span class="dWildcard">chun</span>, <span class="dWildcard">chon</span></dd>
-	<dd>철 cheol</dd>
-	<dd>첨 cheom</dd>
-	<dd>첩 cheop</dd>
-	<dd>청 cheong</dd>
-	<dd>체 che</dd>
-	<dd>초 cho</dd>
-	<dd>촉 chok</dd>
-	<dd>촌 chon</dd>
-	<dd>총 chong</dd>
-	<dd>최 choe, <span class="dWildcard">choi</span>, <span class="dWildcard">choei</span></dd>
-	<dd>추 chu, <span class="dWildcard">choo</span></dd>
-	<dd>축 chuk</dd>
-	<dd>춘 chun</dd>
-	<dd>출 chul</dd>
-	<dd>춤 chum</dd>
-	<dd>충 chung</dd>
-	<dd>측 cheuk</dd>
-	<dd>층 cheung</dd>
-	<dd>치 chi</dd>
-	<dd>칙 chik</dd>
-	<dd>친 chin</dd>
-	<dd>칠 chil</dd>
-	<dd>침 chim</dd>
-	<dd>칩 chip</dd>
-	<dd>칭 ching</dd>
+<dd class="singleColumn"><div class="box"><label>차</label>cha</div></dd>
+<dd class="singleColumn"><div class="box"><label>착</label>chak</div></dd>
+<dd class="singleColumn"><div class="box"><label>찬</label>chan</div></dd>
+<dd class="singleColumn"><div class="box"><label>찰</label>chal</div></dd>
+<dd class="singleColumn"><div class="box"><label>참</label>cham</div></dd>
+<dd class="singleColumn"><div class="box"><label>창</label>chang</div></dd>
+<dd class="singleColumn"><div class="box"><label>채</label>chae, <span class="dWildcard">che</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>책</label>chaek</div></dd>
+<dd class="singleColumn"><div class="box"><label>처</label>cheo</div></dd>
+<dd class="singleColumn"><div class="box"><label>척</label>cheok</div></dd>
+<dd class="singleColumn"><div class="box"><label>천</label>cheon, <span class="dWildcard">chun</span>, <span class="dWildcard">chon</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>철</label>cheol</div></dd>
+<dd class="singleColumn"><div class="box"><label>첨</label>cheom</div></dd>
+<dd class="singleColumn"><div class="box"><label>첩</label>cheop</div></dd>
+<dd class="singleColumn"><div class="box"><label>청</label>cheong</div></dd>
+<dd class="singleColumn"><div class="box"><label>체</label>che</div></dd>
+<dd class="singleColumn"><div class="box"><label>초</label>cho</div></dd>
+<dd class="singleColumn"><div class="box"><label>촉</label>chok</div></dd>
+<dd class="singleColumn"><div class="box"><label>촌</label>chon</div></dd>
+<dd class="singleColumn"><div class="box"><label>총</label>chong</div></dd>
+<dd class="singleColumn"><div class="box"><label>최</label>choe, <span class="dWildcard">choi</span>, <span class="dWildcard">choei</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>추</label>chu, <span class="dWildcard">choo</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>축</label>chuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>춘</label>chun</div></dd>
+<dd class="singleColumn"><div class="box"><label>출</label>chul</div></dd>
+<dd class="singleColumn"><div class="box"><label>춤</label>chum</div></dd>
+<dd class="singleColumn"><div class="box"><label>충</label>chung</div></dd>
+<dd class="singleColumn"><div class="box"><label>측</label>cheuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>층</label>cheung</div></dd>
+<dd class="singleColumn"><div class="box"><label>치</label>chi</div></dd>
+<dd class="singleColumn"><div class="box"><label>칙</label>chik</div></dd>
+<dd class="singleColumn"><div class="box"><label>친</label>chin</div></dd>
+<dd class="singleColumn"><div class="box"><label>칠</label>chil</div></dd>
+<dd class="singleColumn"><div class="box"><label>침</label>chim</div></dd>
+<dd class="singleColumn"><div class="box"><label>칩</label>chip</div></dd>
+<dd class="singleColumn"><div class="box"><label>칭</label>ching</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅋ]</dt>
-	<dd>코 ko</dd>
-	<dd>쾌 kwae</dd>
-	<dd>크 keu</dd>
-	<dd>큰 keun</dd>
-	<dd>키 ki</dd>
+<dd class="singleColumn"><div class="box"><label>코</label>ko</div></dd>
+<dd class="singleColumn"><div class="box"><label>쾌</label>kwae</div></dd>
+<dd class="singleColumn"><div class="box"><label>크</label>keu</div></dd>
+<dd class="singleColumn"><div class="box"><label>큰</label>keun</div></dd>
+<dd class="singleColumn"><div class="box"><label>키</label>ki</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅌ]</dt>
-	<dd>타 ta</dd>
-	<dd>탁 tak</dd>
-	<dd>탄 tan</dd>
-	<dd>탈 tal</dd>
-	<dd>탐 tam</dd>
-	<dd>탑 tap</dd>
-	<dd>탕 tang</dd>
-	<dd>태 tae</dd>
-	<dd>택 taek</dd>
-	<dd>탱 taeng</dd>
-	<dd>터 teo</dd>
-	<dd>테 te</dd>
-	<dd>토 to</dd>
-	<dd>톤 ton</dd>
-	<dd>톨 tol</dd>
-	<dd>통 tong</dd>
-	<dd>퇴 toe</dd>
-	<dd>투 tu</dd>
-	<dd>퉁 tung</dd>
-	<dd>튀 twi</dd>
-	<dd>트 teu</dd>
-	<dd>특 teuk</dd>
-	<dd>틈 teum</dd>
-	<dd>티 ti</dd>
+<dd class="singleColumn"><div class="box"><label>타</label>ta</div></dd>
+<dd class="singleColumn"><div class="box"><label>탁</label>tak</div></dd>
+<dd class="singleColumn"><div class="box"><label>탄</label>tan</div></dd>
+<dd class="singleColumn"><div class="box"><label>탈</label>tal</div></dd>
+<dd class="singleColumn"><div class="box"><label>탐</label>tam</div></dd>
+<dd class="singleColumn"><div class="box"><label>탑</label>tap</div></dd>
+<dd class="singleColumn"><div class="box"><label>탕</label>tang</div></dd>
+<dd class="singleColumn"><div class="box"><label>태</label>tae</div></dd>
+<dd class="singleColumn"><div class="box"><label>택</label>taek</div></dd>
+<dd class="singleColumn"><div class="box"><label>탱</label>taeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>터</label>teo</div></dd>
+<dd class="singleColumn"><div class="box"><label>테</label>te</div></dd>
+<dd class="singleColumn"><div class="box"><label>토</label>to</div></dd>
+<dd class="singleColumn"><div class="box"><label>톤</label>ton</div></dd>
+<dd class="singleColumn"><div class="box"><label>톨</label>tol</div></dd>
+<dd class="singleColumn"><div class="box"><label>통</label>tong</div></dd>
+<dd class="singleColumn"><div class="box"><label>퇴</label>toe</div></dd>
+<dd class="singleColumn"><div class="box"><label>투</label>tu</div></dd>
+<dd class="singleColumn"><div class="box"><label>퉁</label>tung</div></dd>
+<dd class="singleColumn"><div class="box"><label>튀</label>twi</div></dd>
+<dd class="singleColumn"><div class="box"><label>트</label>teu</div></dd>
+<dd class="singleColumn"><div class="box"><label>특</label>teuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>틈</label>teum</div></dd>
+<dd class="singleColumn"><div class="box"><label>티</label>ti</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅍ]</dt>
-	<dd>파 pa</dd>
-	<dd>판 pan</dd>
-	<dd>팔 pal</dd>
-	<dd>패 pae</dd>
-	<dd>팽 paeng</dd>
-	<dd>퍼 peo</dd>
-	<dd>페 pe</dd>
-	<dd>펴 pyeo</dd>
-	<dd>편 pyeon</dd>
-	<dd>폄 pyeom</dd>
-	<dd>평 pyeong</dd>
-	<dd>폐 pye</dd>
-	<dd>포 po</dd>
-	<dd>폭 pok</dd>
-	<dd>표 pyo</dd>
-	<dd>푸 pu</dd>
-	<dd>품 pum</dd>
-	<dd>풍 pung</dd>
-	<dd>프 peu</dd>
-	<dd>피 pi</dd>
-	<dd>픽 pik</dd>
-	<dd>필 pil</dd>
-	<dd>핍 pip</dd>
+<dd class="singleColumn"><div class="box"><label>파</label>pa</div></dd>
+<dd class="singleColumn"><div class="box"><label>판</label>pan</div></dd>
+<dd class="singleColumn"><div class="box"><label>팔</label>pal</div></dd>
+<dd class="singleColumn"><div class="box"><label>패</label>pae</div></dd>
+<dd class="singleColumn"><div class="box"><label>팽</label>paeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>퍼</label>peo</div></dd>
+<dd class="singleColumn"><div class="box"><label>페</label>pe</div></dd>
+<dd class="singleColumn"><div class="box"><label>펴</label>pyeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>편</label>pyeon</div></dd>
+<dd class="singleColumn"><div class="box"><label>폄</label>pyeom</div></dd>
+<dd class="singleColumn"><div class="box"><label>평</label>pyeong</div></dd>
+<dd class="singleColumn"><div class="box"><label>폐</label>pye</div></dd>
+<dd class="singleColumn"><div class="box"><label>포</label>po</div></dd>
+<dd class="singleColumn"><div class="box"><label>폭</label>pok</div></dd>
+<dd class="singleColumn"><div class="box"><label>표</label>pyo</div></dd>
+<dd class="singleColumn"><div class="box"><label>푸</label>pu</div></dd>
+<dd class="singleColumn"><div class="box"><label>품</label>pum</div></dd>
+<dd class="singleColumn"><div class="box"><label>풍</label>pung</div></dd>
+<dd class="singleColumn"><div class="box"><label>프</label>peu</div></dd>
+<dd class="singleColumn"><div class="box"><label>피</label>pi</div></dd>
+<dd class="singleColumn"><div class="box"><label>픽</label>pik</div></dd>
+<dd class="singleColumn"><div class="box"><label>필</label>pil</div></dd>
+<dd class="singleColumn"><div class="box"><label>핍</label>pip</div></dd>
 </dl>
-<dl class="dNameGroup clearfix">
+<dl class="dTableGroup colomn2 clearfix">
 	<dt>[ㅎ]</dt>
-	<dd>하 ha</dd>
-	<dd>학 hak</dd>
-	<dd>한 han</dd>
-	<dd>할 hal</dd>
-	<dd>함 ham</dd>
-	<dd>합 hap</dd>
-	<dd>항 hang</dd>
-	<dd>해 hae</dd>
-	<dd>핵 haek</dd>
-	<dd>행 haeng</dd>
-	<dd>향 hyang</dd>
-	<dd>허 heo, <span class="dWildcard">huh</span>, <span class="dWildcard">hur</span>, <span class="dWildcard">hu</span></dd>
-	<dd>헌 heon</dd>
-	<dd>험 heom</dd>
-	<dd>헤 he</dd>
-	<dd>혀 hyeo</dd>
-	<dd>혁 hyeok</dd>
-	<dd>현 hyeon, <span class="dWildcard">hyun</span></dd>
-	<dd>혈 hyeol</dd>
-	<dd>혐 hyeom</dd>
-	<dd>협 hyeop</dd>
-	<dd>형 hyeong, <span class="dWildcard">hyung</span></dd>
-	<dd>혜 hye</dd>
-	<dd>호 ho</dd>
-	<dd>혹 hok</dd>
-	<dd>혼 hon</dd>
-	<dd>홀 hol</dd>
-	<dd>홉 hop</dd>
-	<dd>홍 hong</dd>
-	<dd>화 hwa</dd>
-	<dd>확 hwak</dd>
-	<dd>환 hwan</dd>
-	<dd>활 hwal</dd>
-	<dd>황 hwang, <span class="dWildcard">whang</span></dd>
-	<dd>홰 hwae</dd>
-	<dd>횃 hwaet</dd>
-	<dd>회 hoe</dd>
-	<dd>획 hoek</dd>
-	<dd>횡 hoeng</dd>
-	<dd>효 hyo</dd>
-	<dd>후 hu</dd>
-	<dd>훈 hun</dd>
-	<dd>훤 hwon</dd>
-	<dd>훼 hwe</dd>
-	<dd>휘 hwi</dd>
-	<dd>휴 hyu</dd>
-	<dd>휼 hyul</dd>
-	<dd>흉 hyung</dd>
-	<dd>흐 heu</dd>
-	<dd>흑 heuk</dd>
-	<dd>흔 heun</dd>
-	<dd>흘 heul</dd>
-	<dd>흠 heum</dd>
-	<dd>흡 heup</dd>
-	<dd>흥 heung</dd>
-	<dd>희 hui</dd>
-	<dd>흰 huin</dd>
-	<dd>히 hi</dd>
-	<dd>힘 him</dd>
+<dd class="singleColumn"><div class="box"><label>하</label>ha</div></dd>
+<dd class="singleColumn"><div class="box"><label>학</label>hak</div></dd>
+<dd class="singleColumn"><div class="box"><label>한</label>han</div></dd>
+<dd class="singleColumn"><div class="box"><label>할</label>hal</div></dd>
+<dd class="singleColumn"><div class="box"><label>함</label>ham</div></dd>
+<dd class="singleColumn"><div class="box"><label>합</label>hap</div></dd>
+<dd class="singleColumn"><div class="box"><label>항</label>hang</div></dd>
+<dd class="singleColumn"><div class="box"><label>해</label>hae</div></dd>
+<dd class="singleColumn"><div class="box"><label>핵</label>haek</div></dd>
+<dd class="singleColumn"><div class="box"><label>행</label>haeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>향</label>hyang</div></dd>
+<dd class="singleColumn"><div class="box"><label>허</label>heo, <span class="dWildcard">huh</span>, <span class="dWildcard">hur</span>, <span class="dWildcard">hu</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>헌</label>heon</div></dd>
+<dd class="singleColumn"><div class="box"><label>험</label>heom</div></dd>
+<dd class="singleColumn"><div class="box"><label>헤</label>he</div></dd>
+<dd class="singleColumn"><div class="box"><label>혀</label>hyeo</div></dd>
+<dd class="singleColumn"><div class="box"><label>혁</label>hyeok</div></dd>
+<dd class="singleColumn"><div class="box"><label>현</label>hyeon, <span class="dWildcard">hyun</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>혈</label>hyeol</div></dd>
+<dd class="singleColumn"><div class="box"><label>혐</label>hyeom</div></dd>
+<dd class="singleColumn"><div class="box"><label>협</label>hyeop</div></dd>
+<dd class="singleColumn"><div class="box"><label>형</label>hyeong, <span class="dWildcard">hyung</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>혜</label>hye</div></dd>
+<dd class="singleColumn"><div class="box"><label>호</label>ho</div></dd>
+<dd class="singleColumn"><div class="box"><label>혹</label>hok</div></dd>
+<dd class="singleColumn"><div class="box"><label>혼</label>hon</div></dd>
+<dd class="singleColumn"><div class="box"><label>홀</label>hol</div></dd>
+<dd class="singleColumn"><div class="box"><label>홉</label>hop</div></dd>
+<dd class="singleColumn"><div class="box"><label>홍</label>hong</div></dd>
+<dd class="singleColumn"><div class="box"><label>화</label>hwa</div></dd>
+<dd class="singleColumn"><div class="box"><label>확</label>hwak</div></dd>
+<dd class="singleColumn"><div class="box"><label>환</label>hwan</div></dd>
+<dd class="singleColumn"><div class="box"><label>활</label>hwal</div></dd>
+<dd class="singleColumn"><div class="box"><label>황</label>hwang, <span class="dWildcard">whang</span></div></dd>
+<dd class="singleColumn"><div class="box"><label>홰</label>hwae</div></dd>
+<dd class="singleColumn"><div class="box"><label>횃</label>hwaet</div></dd>
+<dd class="singleColumn"><div class="box"><label>회</label>hoe</div></dd>
+<dd class="singleColumn"><div class="box"><label>획</label>hoek</div></dd>
+<dd class="singleColumn"><div class="box"><label>횡</label>hoeng</div></dd>
+<dd class="singleColumn"><div class="box"><label>효</label>hyo</div></dd>
+<dd class="singleColumn"><div class="box"><label>후</label>hu</div></dd>
+<dd class="singleColumn"><div class="box"><label>훈</label>hun</div></dd>
+<dd class="singleColumn"><div class="box"><label>훤</label>hwon</div></dd>
+<dd class="singleColumn"><div class="box"><label>훼</label>hwe</div></dd>
+<dd class="singleColumn"><div class="box"><label>휘</label>hwi</div></dd>
+<dd class="singleColumn"><div class="box"><label>휴</label>hyu</div></dd>
+<dd class="singleColumn"><div class="box"><label>휼</label>hyul</div></dd>
+<dd class="singleColumn"><div class="box"><label>흉</label>hyung</div></dd>
+<dd class="singleColumn"><div class="box"><label>흐</label>heu</div></dd>
+<dd class="singleColumn"><div class="box"><label>흑</label>heuk</div></dd>
+<dd class="singleColumn"><div class="box"><label>흔</label>heun</div></dd>
+<dd class="singleColumn"><div class="box"><label>흘</label>heul</div></dd>
+<dd class="singleColumn"><div class="box"><label>흠</label>heum</div></dd>
+<dd class="singleColumn"><div class="box"><label>흡</label>heup</div></dd>
+<dd class="singleColumn"><div class="box"><label>흥</label>heung</div></dd>
+<dd class="singleColumn"><div class="box"><label>희</label>hui</div></dd>
+<dd class="singleColumn"><div class="box"><label>흰</label>huin</div></dd>
+<dd class="singleColumn"><div class="box"><label>히</label>hi</div></dd>
+<dd class="singleColumn"><div class="box"><label>힘</label>him</div></dd>
 </dl>
 	<div class="innerLink">
 		<a href="https://kname.10x10.xyz/성씨/" target="_blank">한글 성(姓)씨 영어로 바꿀 때</a>
 	</div>
-</section>]]></description></item>
+</section>]]></description></item><item><title>한글 영어 표기 방법</title><pubDate>Thu, 27 Dec 2018 10:17:00 +0900</pubDate><link>https://kname.10x10.xyz/%EB%A1%9C%EB%A7%88%EC%9E%90%ED%91%9C%EA%B8%B0%EB%B2%95/</link><guid>https://kname.10x10.xyz/%EB%A1%9C%EB%A7%88%EC%9E%90%ED%91%9C%EA%B8%B0%EB%B2%95/</guid><author>yohan1002 (yohan1002@gmail.com)</author><category>인명</category><description><![CDATA[<section class="pageLayout">
+	<dl class="noticeList clearfix">
+		<dt>한글을 영어(로마자)로 표기할 때에는 기본적으로 아래의 규칙을 따른다.</dt>
+		<dd class="listHyphen">로마자 표기는 한글의 표준 발음법에 따라 적는 것을 원칙으로 한다.</dd>
+		<dd class="listHyphen">로마자외에 부호, 기호는 사용하지 않는다.</dd>
+	</dl>
+
+	<div class="innerLink">
+		<a href="https://kname.10x10.xyz/성씨/" target="_blank">한글 성(姓)씨 영어로 바꿀 때</a>
+	</div>
+
+	<div class="innerLink">
+		<a href="https://kname.10x10.xyz/이름/" target="_blank">한글 이름(名) 영어로 바꿀 때</a>
+	</div>
+
+	<h4>자음</h4>
+<ul class="dTableGroup clearfix">
+<li class="singleColumn"><div class="box"><label>ㄱ</label>g, k</div></li>
+<li class="singleColumn"><div class="box"><label>ㄲ</label>kk</div></li>
+<li class="singleColumn"><div class="box"><label>ㅋ</label>k</div></li>
+<li class="singleColumn"><div class="box"><label>ㄷ</label>d, t</div></li>
+<li class="singleColumn"><div class="box"><label>ㄸ</label>tt</div></li>
+<li class="singleColumn"><div class="box"><label>ㅌ</label>t</div></li>
+<li class="singleColumn"><div class="box"><label>ㅂ</label>b, p</div></li>
+<li class="singleColumn"><div class="box"><label>ㅃ</label>pp</div></li>
+<li class="singleColumn"><div class="box"><label>ㅍ</label>p</div></li>
+<li class="singleColumn"><div class="box"><label>ㅈ</label>j</div></li>
+<li class="singleColumn"><div class="box"><label>ㅉ</label>jj</div></li>
+<li class="singleColumn"><div class="box"><label>ㅊ</label>ch</div></li>
+<li class="singleColumn"><div class="box"><label>ㅅ</label>s</div></li>
+<li class="singleColumn"><div class="box"><label>ㅆ</label>ss</div></li>
+<li class="singleColumn"><div class="box"><label>ㅎ</label>h</div></li>
+<li class="singleColumn"><div class="box"><label>ㄴ</label>n</div></li>
+<li class="singleColumn"><div class="box"><label>ㅁ</label>m</div></li>
+<li class="singleColumn"><div class="box"><label>ㅇ</label>ng</div></li>
+<li class="singleColumn"><div class="box"><label>ㄹ</label>r, l</div></li>
+</ul>
+<h4>모음</h4>
+<ul class="dTableGroup clearfix">
+<li class="singleColumn"><div class="box"><label>ㅏ</label>a</div></li>
+<li class="singleColumn"><div class="box"><label>ㅓ</label>eo</div></li>
+<li class="singleColumn"><div class="box"><label>ㅗ</label>o</div></li>
+<li class="singleColumn"><div class="box"><label>ㅜ</label>u</div></li>
+<li class="singleColumn"><div class="box"><label>ㅡ</label>eu</div></li>
+<li class="singleColumn"><div class="box"><label>ㅣ</label>i</div></li>
+<li class="singleColumn"><div class="box"><label>ㅐ</label>ae</div></li>
+<li class="singleColumn"><div class="box"><label>ㅔ</label>e</div></li>
+<li class="singleColumn"><div class="box"><label>ㅚ</label>oe</div></li>
+<li class="singleColumn"><div class="box"><label>ㅟ</label>wi</div></li>
+<li class="singleColumn"><div class="box"><label>ㅑ</label>ya</div></li>
+<li class="singleColumn"><div class="box"><label>ㅕ</label>yeo</div></li>
+<li class="singleColumn"><div class="box"><label>ㅛ</label>yo</div></li>
+<li class="singleColumn"><div class="box"><label>ㅠ</label>yu</div></li>
+<li class="singleColumn"><div class="box"><label>ㅒ</label>yae</div></li>
+<li class="singleColumn"><div class="box"><label>ㅖ</label>ye</div></li>
+<li class="singleColumn"><div class="box"><label>ㅘ</label>wa</div></li>
+<li class="singleColumn"><div class="box"><label>ㅙ</label>wae</div></li>
+<li class="singleColumn"><div class="box"><label>ㅝ</label>wo</div></li>
+<li class="singleColumn"><div class="box"><label>ㅞ</label>we</div></li>
+<li class="singleColumn"><div class="box"><label>ㅢ</label>ui</div></li>
+</ul>
+<dl class="referenceList clearfix">
+ <dt>&lt;참고&gt;</dt>
+<dd><i>국립국어원:</i> <a href="https://www.korean.go.kr/front/page/pageView.do?page_id=P000149&mn_id=99" target="_blank">https://www.korean.go.kr/front/page/pageView.do?page_id=P000149&mn_id=99</a></dd>
+</dl></section>]]></description></item>
 </channel>
 </rss>
